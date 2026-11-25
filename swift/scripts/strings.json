@@ -1,0 +1,750 @@
+{
+  "addCertification": {
+    "en": "Add certification",
+    "es": "Agregar certificación"
+  },
+  "addCourse": {
+    "en": "Add course",
+    "es": "Agregar curso"
+  },
+  "addTag": {
+    "en": "Add a tag",
+    "es": "Agregar una etiqueta"
+  },
+  "appTitle": {
+    "en": "Certifications",
+    "es": "Certificaciones"
+  },
+  "attachFile": {
+    "en": "Attach PDF or image",
+    "es": "Adjuntar PDF o imagen"
+  },
+  "attachPDF": {
+    "en": "Attach PDF",
+    "es": "Adjuntar PDF"
+  },
+  "biometricLockBody": {
+    "en": "Use Face ID or fingerprint to continue.",
+    "es": "Usa Face ID o la huella para continuar."
+  },
+  "biometricLockTitle": {
+    "en": "App locked",
+    "es": "App bloqueada"
+  },
+  "biometricLockUnlockButton": {
+    "en": "Unlock",
+    "es": "Desbloquear"
+  },
+  "byProvider": {
+    "en": "Certifications by provider",
+    "es": "Certificaciones por proveedor"
+  },
+  "byTag": {
+    "en": "Certifications by tag",
+    "es": "Certificaciones por etiqueta"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "es": "Cancelar"
+  },
+  "certificatePDF": {
+    "en": "Certificate PDF",
+    "es": "PDF del certificado"
+  },
+  "certificationNotFound": {
+    "en": "Certification not found",
+    "es": "Certificación no encontrada"
+  },
+  "certifications": {
+    "en": "Certifications",
+    "es": "Certificaciones"
+  },
+  "configMissingBody": {
+    "en": "Copy CertsConfig.example.plist to CertificationsTracker/Resources/CertsConfig.plist and fill in the Supabase URL and anon key.",
+    "es": "Copia CertsConfig.example.plist a CertificationsTracker/Resources/CertsConfig.plist y completa la URL y la clave anónima de Supabase."
+  },
+  "configMissingTitle": {
+    "en": "Danny Certifications isn't configured",
+    "es": "Danny Certifications no está configurado"
+  },
+  "copyLink": {
+    "en": "Copy link",
+    "es": "Copiar enlace"
+  },
+  "courseFile": {
+    "en": "Course certificate",
+    "es": "Certificado del curso"
+  },
+  "courseNamePlaceholder": {
+    "en": "Course name",
+    "es": "Nombre del curso"
+  },
+  "courseNotFound": {
+    "en": "Course not found",
+    "es": "Curso no encontrado"
+  },
+  "courseProviderPlaceholder": {
+    "en": "Udemy, LinkedIn Learning…",
+    "es": "Udemy, LinkedIn Learning…"
+  },
+  "coursesByCategory": {
+    "en": "Courses by category",
+    "es": "Cursos por categoría"
+  },
+  "coursesByProvider": {
+    "en": "Courses by provider",
+    "es": "Cursos por proveedor"
+  },
+  "createTag": {
+    "en": "Create “%1$@”",
+    "es": "Crear «%1$@»"
+  },
+  "dashboardEmptyBody": {
+    "en": "Add certifications to see how they group by tag and provider.",
+    "es": "Agrega certificaciones para ver cómo se agrupan por etiqueta y proveedor."
+  },
+  "dashboardEmptyCourses": {
+    "en": "Add courses to see hours and counts by category and provider.",
+    "es": "Agrega cursos para ver horas y cantidades por categoría y proveedor."
+  },
+  "dates": {
+    "en": "Dates",
+    "es": "Fechas"
+  },
+  "delete": {
+    "en": "Delete",
+    "es": "Eliminar"
+  },
+  "deleteCertification": {
+    "en": "Delete certification",
+    "es": "Eliminar certificación"
+  },
+  "deleteCertificationMessage": {
+    "en": "\"%1$@\" and its PDF will be deleted.",
+    "es": "Se eliminarán \"%1$@\" y su PDF."
+  },
+  "deleteCertificationTitle": {
+    "en": "Delete certification?",
+    "es": "¿Eliminar certificación?"
+  },
+  "deleteCourse": {
+    "en": "Delete course",
+    "es": "Eliminar curso"
+  },
+  "deleteCourseMessage": {
+    "en": "\"%1$@\" and its file will be deleted.",
+    "es": "Se eliminarán \"%1$@\" y su archivo."
+  },
+  "deleteCourseTitle": {
+    "en": "Delete course?",
+    "es": "¿Eliminar curso?"
+  },
+  "details": {
+    "en": "Details",
+    "es": "Detalles"
+  },
+  "done": {
+    "en": "Done",
+    "es": "Listo"
+  },
+  "earnDate": {
+    "en": "Earn date",
+    "es": "Fecha de obtención"
+  },
+  "edit": {
+    "en": "Edit",
+    "es": "Editar"
+  },
+  "editCertification": {
+    "en": "Edit certification",
+    "es": "Editar certificación"
+  },
+  "editCourse": {
+    "en": "Edit course",
+    "es": "Editar curso"
+  },
+  "email": {
+    "en": "Email",
+    "es": "Correo electrónico"
+  },
+  "expirationDate": {
+    "en": "Expiration date",
+    "es": "Fecha de vencimiento"
+  },
+  "fileAttached": {
+    "en": "File attached",
+    "es": "Archivo adjunto"
+  },
+  "hasExpiration": {
+    "en": "Expires",
+    "es": "Vence"
+  },
+  "hours": {
+    "en": "Hours",
+    "es": "Horas"
+  },
+  "hoursByCategory": {
+    "en": "Hours by category",
+    "es": "Horas por categoría"
+  },
+  "hoursByProvider": {
+    "en": "Hours by provider",
+    "es": "Horas por proveedor"
+  },
+  "hoursShort": {
+    "en": "%1$@ h",
+    "es": "%1$@ h"
+  },
+  "invalidNumber": {
+    "en": "Enter a valid number.",
+    "es": "Introduce un número válido."
+  },
+  "linkPlaceholder": {
+    "en": "https://",
+    "es": "https://"
+  },
+  "loadError": {
+    "en": "Could not load your data",
+    "es": "No se pudieron cargar tus datos"
+  },
+  "name": {
+    "en": "Name",
+    "es": "Nombre"
+  },
+  "namePlaceholder": {
+    "en": "Certification name",
+    "es": "Nombre de la certificación"
+  },
+  "navCertifications": {
+    "en": "Certifications",
+    "es": "Certificaciones"
+  },
+  "navCourses": {
+    "en": "Courses",
+    "es": "Cursos"
+  },
+  "navDashboard": {
+    "en": "Dashboard",
+    "es": "Panel"
+  },
+  "noCertificationsBody": {
+    "en": "Add your first certification with the + button.",
+    "es": "Agrega tu primera certificación con el botón +."
+  },
+  "noCertificationsTitle": {
+    "en": "No certifications yet",
+    "es": "Aún no hay certificaciones"
+  },
+  "noCoursesBody": {
+    "en": "Add the courses you have taken with the + button.",
+    "es": "Agrega los cursos que has tomado con el botón +."
+  },
+  "noCoursesTitle": {
+    "en": "No courses yet",
+    "es": "Aún no hay cursos"
+  },
+  "noExpiration": {
+    "en": "No expiration",
+    "es": "Sin vencimiento"
+  },
+  "noTagsYet": {
+    "en": "No tags yet",
+    "es": "Aún no hay etiquetas"
+  },
+  "offlineBanner": {
+    "en": "Offline: showing your last synced data (read-only)",
+    "es": "Sin conexión: mostrando tus últimos datos sincronizados (solo lectura)"
+  },
+  "ok": {
+    "en": "OK",
+    "es": "Aceptar"
+  },
+  "orderAZ": {
+    "en": "A to Z",
+    "es": "A a la Z"
+  },
+  "orderHighest": {
+    "en": "Highest first",
+    "es": "Mayor primero"
+  },
+  "orderLatest": {
+    "en": "Latest first",
+    "es": "Más lejanas primero"
+  },
+  "orderLowest": {
+    "en": "Lowest first",
+    "es": "Menor primero"
+  },
+  "orderNewest": {
+    "en": "Newest first",
+    "es": "Más recientes primero"
+  },
+  "orderOldest": {
+    "en": "Oldest first",
+    "es": "Más antiguas primero"
+  },
+  "orderSoonest": {
+    "en": "Soonest first",
+    "es": "Próximas a vencer primero"
+  },
+  "orderZA": {
+    "en": "Z to A",
+    "es": "Z a la A"
+  },
+  "password": {
+    "en": "Password",
+    "es": "Contraseña"
+  },
+  "pdfAttached": {
+    "en": "PDF attached",
+    "es": "PDF adjunto"
+  },
+  "pdfLoadFailed": {
+    "en": "Couldn't open the PDF",
+    "es": "No se pudo abrir el PDF"
+  },
+  "pdfReadFailed": {
+    "en": "Couldn't read that file.",
+    "es": "No se pudo leer ese archivo."
+  },
+  "pdfTooLarge": {
+    "en": "That PDF is larger than 20 MB.",
+    "es": "Ese PDF pesa más de 20 MB."
+  },
+  "popularTags": {
+    "en": "Your tags",
+    "es": "Tus etiquetas"
+  },
+  "price": {
+    "en": "Price",
+    "es": "Precio"
+  },
+  "provider": {
+    "en": "Provider",
+    "es": "Proveedor"
+  },
+  "providerPlaceholder": {
+    "en": "Issuing organization",
+    "es": "Organización emisora"
+  },
+  "rateApp": {
+    "en": "Rate the app",
+    "es": "Calificar la app"
+  },
+  "removeFile": {
+    "en": "Remove file",
+    "es": "Quitar archivo"
+  },
+  "removePDF": {
+    "en": "Remove PDF",
+    "es": "Quitar PDF"
+  },
+  "removeTagHint": {
+    "en": "Removes this tag",
+    "es": "Quita esta etiqueta"
+  },
+  "replacePDF": {
+    "en": "Replace PDF",
+    "es": "Reemplazar PDF"
+  },
+  "retry": {
+    "en": "Try again",
+    "es": "Reintentar"
+  },
+  "save": {
+    "en": "Save",
+    "es": "Guardar"
+  },
+  "saveFailed": {
+    "en": "Couldn't save. Check your connection and try again.",
+    "es": "No se pudo guardar. Revisa tu conexión e inténtalo de nuevo."
+  },
+  "search": {
+    "en": "Search",
+    "es": "Buscar"
+  },
+  "searchCertifications": {
+    "en": "Search certifications",
+    "es": "Buscar certificaciones"
+  },
+  "searchPrompt": {
+    "en": "Search certifications and courses",
+    "es": "Buscar certificaciones y cursos"
+  },
+  "settings": {
+    "en": "Settings",
+    "es": "Ajustes"
+  },
+  "settingsAboutApp": {
+    "en": "About",
+    "es": "Acerca de"
+  },
+  "settingsAboutBulletCourses": {
+    "en": "Courses with provider, price, hours and certificate, kept apart from certifications.",
+    "es": "Cursos con proveedor, precio, horas y certificado, separados de las certificaciones."
+  },
+  "settingsAboutBulletDashboard": {
+    "en": "Dashboard with the number of certifications by tag and by provider.",
+    "es": "Panel con la cantidad de certificaciones por etiqueta y por proveedor."
+  },
+  "settingsAboutBulletList": {
+    "en": "A list of your certifications with provider, earn date and expiration, sortable by any of them.",
+    "es": "Una lista de tus certificaciones con proveedor, fecha de obtención y vencimiento, ordenable por cualquiera de ellos."
+  },
+  "settingsAboutBulletPDF": {
+    "en": "Keep the certificate PDF and open the verification link in the app.",
+    "es": "Guarda el PDF del certificado y abre el enlace de verificación dentro de la app."
+  },
+  "settingsAboutBulletTags": {
+    "en": "Tags such as cloud, azure or database, with suggestions while you type.",
+    "es": "Etiquetas como cloud, azure o database, con sugerencias mientras escribes."
+  },
+  "settingsAboutDataBody": {
+    "en": "Sign-in and your data use Supabase: your certifications and their PDFs are stored in your account and available on any device where you sign in. A read-only copy of the last data loaded is kept on this device for when you're offline.",
+    "es": "El inicio de sesión y tus datos usan Supabase: tus certificaciones y sus PDF se guardan en tu cuenta y están disponibles en cualquier dispositivo donde inicies sesión. Se guarda en este dispositivo una copia de solo lectura de los últimos datos cargados para cuando no tengas conexión."
+  },
+  "settingsAboutDataHeading": {
+    "en": "Your data",
+    "es": "Tus datos"
+  },
+  "settingsAboutDeveloperGithub": {
+    "en": "GitHub",
+    "es": "GitHub"
+  },
+  "settingsAboutDeveloperHeading": {
+    "en": "Developer",
+    "es": "Desarrollador"
+  },
+  "settingsAboutDeveloperLinkedin": {
+    "en": "LinkedIn",
+    "es": "LinkedIn"
+  },
+  "settingsAboutDeveloperWebsite": {
+    "en": "Website",
+    "es": "Sitio web"
+  },
+  "settingsAboutDeveloperYoutube": {
+    "en": "YouTube",
+    "es": "YouTube"
+  },
+  "settingsAboutFeaturesHeading": {
+    "en": "What you can do",
+    "es": "Qué puedes hacer"
+  },
+  "settingsAboutSection": {
+    "en": "About",
+    "es": "Acerca de"
+  },
+  "settingsAboutTagline": {
+    "en": "All your certifications in one place.",
+    "es": "Todas tus certificaciones en un solo lugar."
+  },
+  "settingsAboutVersionLabel": {
+    "en": "Version",
+    "es": "Versión"
+  },
+  "settingsAppearance": {
+    "en": "Appearance",
+    "es": "Apariencia"
+  },
+  "settingsBiometricAuthReason": {
+    "en": "Confirm to enable biometric unlock.",
+    "es": "Confirma para activar el desbloqueo biométrico."
+  },
+  "settingsBiometricResumeReason": {
+    "en": "Authenticate to continue.",
+    "es": "Autentícate para continuar."
+  },
+  "settingsBiometricUnavailable": {
+    "en": "Biometric unlock is not available on this device.",
+    "es": "El desbloqueo biométrico no está disponible en este dispositivo."
+  },
+  "settingsBiometricUnlockSubtitle": {
+    "en": "Use biometrics to unlock the app.",
+    "es": "Usa la biometría para desbloquear la app."
+  },
+  "settingsBiometricUnlockTitle": {
+    "en": "Face ID & fingerprint",
+    "es": "Face ID y huella dactilar"
+  },
+  "settingsChangeEmail": {
+    "en": "Change email",
+    "es": "Cambiar correo"
+  },
+  "settingsChangeEmailDialogTitle": {
+    "en": "Change email",
+    "es": "Cambiar correo"
+  },
+  "settingsChangeEmailInvalid": {
+    "en": "Enter a valid email address.",
+    "es": "Introduce un correo válido."
+  },
+  "settingsChangeEmailSameAsCurrent": {
+    "en": "That is already your email.",
+    "es": "Ese ya es tu correo."
+  },
+  "settingsChangeEmailSubmit": {
+    "en": "Update",
+    "es": "Actualizar"
+  },
+  "settingsChangeEmailSuccess": {
+    "en": "Check your new email to confirm the change.",
+    "es": "Revisa tu correo nuevo para confirmar el cambio."
+  },
+  "settingsChangePassword": {
+    "en": "Change password",
+    "es": "Cambiar contraseña"
+  },
+  "settingsChangePasswordDialogTitle": {
+    "en": "Change password",
+    "es": "Cambiar contraseña"
+  },
+  "settingsChangePasswordSubmit": {
+    "en": "Update password",
+    "es": "Actualizar contraseña"
+  },
+  "settingsChangePasswordSubtitle": {
+    "en": "Updates the password you use to sign in.",
+    "es": "Actualiza la contraseña con la que inicias sesión."
+  },
+  "settingsChangePasswordSuccess": {
+    "en": "Your password was updated.",
+    "es": "Tu contraseña se actualizó."
+  },
+  "settingsConfirmNewPasswordLabel": {
+    "en": "Confirm new password",
+    "es": "Confirmar contraseña"
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "es": "Idioma"
+  },
+  "settingsLanguageEnglish": {
+    "en": "English",
+    "es": "Inglés"
+  },
+  "settingsLanguageSpanish": {
+    "en": "Spanish",
+    "es": "Español"
+  },
+  "settingsLanguageSystem": {
+    "en": "System default",
+    "es": "Predeterminado del sistema"
+  },
+  "settingsNewEmailLabel": {
+    "en": "New email",
+    "es": "Correo nuevo"
+  },
+  "settingsNewPasswordLabel": {
+    "en": "New password",
+    "es": "Contraseña nueva"
+  },
+  "settingsPasswordTooShort": {
+    "en": "Use at least 6 characters.",
+    "es": "Usa al menos 6 caracteres."
+  },
+  "settingsPasswordsDoNotMatch": {
+    "en": "Passwords do not match.",
+    "es": "Las contraseñas no coinciden."
+  },
+  "settingsPrivacyDataBody": {
+    "en": "Authentication is provided by Supabase. Your email and credentials are processed by Supabase; this app does not store your password.",
+    "es": "La autenticación la provee Supabase. Tu correo y credenciales los procesa Supabase; esta app no guarda tu contraseña."
+  },
+  "settingsPrivacyDataTitle": {
+    "en": "Account",
+    "es": "Cuenta"
+  },
+  "settingsPrivacyInfraBody": {
+    "en": "Your certifications, tags and certificate PDFs are stored in Supabase, tied to your account and protected so only you can read them. A copy of the last data loaded is kept on this device to show it offline, and is deleted when you sign out. Verification links open in an in-app browser and are handled by the site they point to. Security and backups depend on that service. Use a strong password.",
+    "es": "Tus certificaciones, etiquetas y PDF de certificados se guardan en Supabase, asociados a tu cuenta y protegidos para que solo tú puedas leerlos. En este dispositivo se guarda una copia de los últimos datos cargados para verlos sin conexión, y se borra al cerrar sesión. Los enlaces de verificación se abren en un navegador dentro de la app y los gestiona el sitio al que apuntan. La seguridad y los respaldos dependen de ese servicio. Usa una contraseña segura."
+  },
+  "settingsPrivacyInfraTitle": {
+    "en": "What we store today — and later",
+    "es": "Qué guardamos hoy — y después"
+  },
+  "settingsPrivacyNoticeBody": {
+    "en": "This text is a simple placeholder, not legal advice. Before production or an app store release, publish a privacy policy that matches your jurisdiction, your organization, and how you actually process data.",
+    "es": "Este texto es un resumen orientativo, no asesoramiento legal. Antes de producción o de publicar en una tienda de apps, publica una política de privacidad acorde a tu jurisdicción, tu organización y cómo tratas los datos en la práctica."
+  },
+  "settingsPrivacyNoticeTitle": {
+    "en": "Before you ship",
+    "es": "Antes de publicar"
+  },
+  "settingsPrivacyPolicy": {
+    "en": "Privacy policy",
+    "es": "Política de privacidad"
+  },
+  "settingsPrivacySharingBody": {
+    "en": "We do not sell your personal information or use your data to target ads. Apart from the sign-in and storage service, this app does not send your data to anyone.",
+    "es": "No vendemos tu información personal ni usamos tus datos para mostrarte anuncios. Aparte del servicio de inicio de sesión y almacenamiento, esta app no envía tus datos a nadie."
+  },
+  "settingsPrivacySharingTitle": {
+    "en": "Sharing and ads",
+    "es": "Compartir y publicidad"
+  },
+  "settingsPrivacyTagline": {
+    "en": "Your account and certifications are stored in Supabase.",
+    "es": "Tu cuenta y tus certificaciones se guardan en Supabase."
+  },
+  "settingsProfileSection": {
+    "en": "Profile",
+    "es": "Perfil"
+  },
+  "settingsSecuritySection": {
+    "en": "Security",
+    "es": "Seguridad"
+  },
+  "settingsTermsAcceptanceBody": {
+    "en": "By accessing or using Certifications Tracker, you agree to these terms. If you do not agree, do not use the app. Sign-in and your data are handled by Supabase.",
+    "es": "Al acceder o usar Certifications Tracker, aceptas estos términos. Si no estás de acuerdo, no uses la app. El inicio de sesión y tus datos los gestiona Supabase."
+  },
+  "settingsTermsAcceptanceTitle": {
+    "en": "Acceptance",
+    "es": "Aceptación"
+  },
+  "settingsTermsDisclaimerBody": {
+    "en": "Certifications Tracker is a tool for organizing your own records. It does not verify or issue certifications, and what it shows may be out of date. Always confirm a certification with its provider.",
+    "es": "Certifications Tracker es una herramienta para organizar tus propios registros. No verifica ni emite certificaciones, y lo que muestra puede estar desactualizado. Confirma siempre una certificación con su proveedor."
+  },
+  "settingsTermsDisclaimerTitle": {
+    "en": "Not an official record",
+    "es": "No es un registro oficial"
+  },
+  "settingsTermsLiabilityBody": {
+    "en": "To the fullest extent permitted by law, the authors and contributors are not liable for any indirect, incidental, or consequential damages, or for losses or decisions you make based on the app. The app is provided as-is without warranties of any kind.",
+    "es": "En la medida máxima permitida por la ley, los autores y colaboradores no serán responsables de daños indirectos, incidentales o consecuenciales, ni de pérdidas o decisiones que tomes basándote en la app. La app se ofrece «tal cual», sin garantías de ningún tipo."
+  },
+  "settingsTermsLiabilityTitle": {
+    "en": "Limitation of liability",
+    "es": "Limitación de responsabilidad"
+  },
+  "settingsTermsNoticeBody": {
+    "en": "These terms may be updated from time to time. If you continue to use the app after changes are posted, that indicates your acceptance of the updated terms. This text is a simple placeholder, not legal advice. Before production or an app store release, publish terms that match your jurisdiction, your organization, and your service.",
+    "es": "Estos términos pueden actualizarse ocasionalmente. Si sigues usando la app tras publicarse cambios, ello implica que aceptas los términos actualizados. Este texto es un resumen orientativo, no asesoramiento legal. Antes de producción o de publicar en una tienda de apps, publica términos acordes a tu jurisdicción, tu organización y tu servicio."
+  },
+  "settingsTermsNoticeTitle": {
+    "en": "Changes and before you ship",
+    "es": "Cambios y antes de publicar"
+  },
+  "settingsTermsOfUse": {
+    "en": "Terms of use",
+    "es": "Términos de uso"
+  },
+  "settingsTermsResponsibilitiesBody": {
+    "en": "You are responsible for protecting your account, credentials and devices.",
+    "es": "Eres responsable de proteger tu cuenta, credenciales y dispositivos."
+  },
+  "settingsTermsResponsibilitiesTitle": {
+    "en": "Your responsibilities",
+    "es": "Tus responsabilidades"
+  },
+  "settingsTermsTagline": {
+    "en": "Rules for using this app.",
+    "es": "Normas para usar esta app."
+  },
+  "settingsTheme": {
+    "en": "Theme",
+    "es": "Tema"
+  },
+  "settingsThemeDark": {
+    "en": "Dark",
+    "es": "Oscuro"
+  },
+  "settingsThemeLight": {
+    "en": "Light",
+    "es": "Claro"
+  },
+  "settingsThemeSystem": {
+    "en": "System default",
+    "es": "Predeterminado del sistema"
+  },
+  "showAll": {
+    "en": "Show all (%1$@)",
+    "es": "Mostrar todo (%1$@)"
+  },
+  "showLess": {
+    "en": "Show less",
+    "es": "Mostrar menos"
+  },
+  "signIn": {
+    "en": "Sign in",
+    "es": "Iniciar sesión"
+  },
+  "signInFailed": {
+    "en": "Couldn't sign in. Check your email and password.",
+    "es": "No se pudo iniciar sesión. Revisa el correo y la contraseña."
+  },
+  "signOut": {
+    "en": "Sign out",
+    "es": "Cerrar sesión"
+  },
+  "sortBy": {
+    "en": "Sort by",
+    "es": "Ordenar por"
+  },
+  "sortOrder": {
+    "en": "Order",
+    "es": "Orden"
+  },
+  "sortedBy": {
+    "en": "Sorted by %1$@",
+    "es": "Ordenado por %1$@"
+  },
+  "statSpent": {
+    "en": "Spent",
+    "es": "Gastado"
+  },
+  "statTotal": {
+    "en": "Total",
+    "es": "Total"
+  },
+  "statusExpired": {
+    "en": "Expired",
+    "es": "Vencida"
+  },
+  "statusExpiringSoon": {
+    "en": "Expiring soon",
+    "es": "Por vencer"
+  },
+  "statusValid": {
+    "en": "Valid",
+    "es": "Vigente"
+  },
+  "suggestions": {
+    "en": "Suggestions",
+    "es": "Sugerencias"
+  },
+  "tags": {
+    "en": "Tags",
+    "es": "Etiquetas"
+  },
+  "unexpectedError": {
+    "en": "An unexpected error occurred",
+    "es": "Ocurrió un error inesperado"
+  },
+  "verification": {
+    "en": "Verification",
+    "es": "Verificación"
+  },
+  "verificationLink": {
+    "en": "Verification link",
+    "es": "Enlace de verificación"
+  },
+  "verificationLinkInvalid": {
+    "en": "Enter a valid link that starts with http:// or https://.",
+    "es": "Introduce un enlace válido que empiece con http:// o https://."
+  },
+  "verifyCredential": {
+    "en": "Verify credential",
+    "es": "Verificar credencial"
+  },
+  "viewFile": {
+    "en": "View certificate",
+    "es": "Ver certificado"
+  },
+  "viewPDF": {
+    "en": "View certificate PDF",
+    "es": "Ver PDF del certificado"
+  }
+}
