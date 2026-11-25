@@ -1,0 +1,4248 @@
+[
+ {
+  "file": "20130319 - UPS - SEMINARIO MATLAB (Reverse).jpg",
+  "name": "UPS - SEMINARIO MATLAB (Reverse)",
+  "provider": "UPS",
+  "earnDate": "2013-03-19",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "matlab"
+  ]
+ },
+ {
+  "file": "20130319 - UPS - SEMINARIO MATLAB.jpg",
+  "name": "Seminario I - MATLAB",
+  "provider": "UPS",
+  "earnDate": "2013-04-26",
+  "hours": 32.0,
+  "price": 0,
+  "tags": [
+   "matlab"
+  ]
+ },
+ {
+  "file": "20140325 - UPS - SEMINARIO Labview (Reverse).jpg",
+  "name": "UPS - SEMINARIO Labview (Reverse)",
+  "provider": "UPS",
+  "earnDate": "2014-03-25",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "matlab",
+   "hardware"
+  ]
+ },
+ {
+  "file": "20140325 - UPS - SEMINARIO Labview.jpg",
+  "name": "Seminario II - LabVIEW Grupo 1",
+  "provider": "UPS",
+  "earnDate": "2014-05-02",
+  "hours": 32.0,
+  "price": 0,
+  "tags": [
+   "matlab",
+   "hardware"
+  ]
+ },
+ {
+  "file": "20140905 - UPS - Taller de Ciber Seguridad y Delitos Informáticos.jpg",
+  "name": "Taller de Ciberseguridad y Delitos Informáticos",
+  "provider": "Supertel",
+  "earnDate": "2014-09-05",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20150801 - Hubbell - Instalador Certificado Hubbell Premise Wiring's MISSION CRITICAL.pdf",
+  "name": "Instalador Certificado Hubbell Premise Wiring's MISSION CRITICAL - Programa de 2 dias de Entrenamiento",
+  "provider": "Hubbell",
+  "earnDate": "2015-08-01",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "hardware",
+   "networking"
+  ]
+ },
+ {
+  "file": "20151021 - ESET - Introducción a Python.pdf",
+  "name": "Introducción a Python",
+  "provider": "ESET",
+  "earnDate": "2015-10-21",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20151022 - ESET - Seguridad en Transacciones en Línea.pdf",
+  "name": "Seguridad en las Transacciones Comerciales en Línea",
+  "provider": "ESET",
+  "earnDate": "2015-10-22",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20160131 - Telinksa - Voz sobre IP.jpg",
+  "name": "Taller de Voz sobre IP",
+  "provider": "Telinksa",
+  "earnDate": "2016-01-31",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "hardware",
+   "networking"
+  ]
+ },
+ {
+  "file": "20160731 - Telinksa - Fibra óptica.jpg",
+  "name": "Taller de Fibra Óptica",
+  "provider": "Telinksa",
+  "earnDate": "2016-07-31",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "hardware",
+   "networking"
+  ]
+ },
+ {
+  "file": "20161104 - Sololearn - SQL_certificate.jpg",
+  "name": "SQL Fundamentals course",
+  "provider": "Sololearn",
+  "earnDate": "2016-11-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database"
+  ]
+ },
+ {
+  "file": "20161113 - Sololearn - JavaScript_certificate.jpg",
+  "name": "JavaScript Tutorial course",
+  "provider": "Sololearn",
+  "earnDate": "2016-11-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20170101 - SoloLearn - PHP_certificate.jpg",
+  "name": "PHP Tutorial course",
+  "provider": "Sololearn",
+  "earnDate": "2017-01-01",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "web",
+   "php"
+  ]
+ },
+ {
+  "file": "20171001 - Telinksa - Radio Enlaces Y Redes Inalámbricas.jpg",
+  "name": "Taller de Radio Enlaces y Redes Inalámbricas",
+  "provider": "Telinksa",
+  "earnDate": "2017-10-01",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "hardware",
+   "networking"
+  ]
+ },
+ {
+  "file": "20180219 - Fundación Carlos Slim - Curador de datos.pdf",
+  "name": "Curador de datos",
+  "provider": "Fundación Carlos Slim",
+  "earnDate": "2018-02-16",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "soft skills"
+  ]
+ },
+ {
+  "file": "20181201 - Seminario Taller BIG DATA.jpg",
+  "name": "Seminario Taller de Big Data & Machine Learning",
+  "provider": "MAINT",
+  "earnDate": "2018-12-01",
+  "hours": 40.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data",
+   "ai"
+  ]
+ },
+ {
+  "file": "20190424 - Veracode - Application Security Testing.pdf",
+  "name": "Application Security Testing",
+  "provider": "Veracode",
+  "earnDate": "2019-04-24",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "testing",
+   "programming"
+  ]
+ },
+ {
+  "file": "20190517 - RPA Developer - Foundation Training.pdf",
+  "name": "RPA Developer Foundation Training",
+  "provider": "UiPath",
+  "earnDate": "2019-05-17",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation",
+   "programming"
+  ]
+ },
+ {
+  "file": "20190606 - RPA Developer - Orchestrator 2018.3 Training.pdf",
+  "name": "Level 2 - Orchestrator 2018.3 Training",
+  "provider": "UiPath",
+  "earnDate": "2019-06-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation",
+   "programming"
+  ]
+ },
+ {
+  "file": "20190607 - RPA Developer - Orchestrator 2018.2 Training.pdf",
+  "name": "Orchestrator 2018.2 Training",
+  "provider": "UiPath",
+  "earnDate": "2019-06-07",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation",
+   "programming"
+  ]
+ },
+ {
+  "file": "20190609 UiPath Licensing Training (v2).pdf",
+  "name": "UiPath Licensing Training",
+  "provider": "UiPath",
+  "earnDate": "2019-06-09",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190609 UiPath Licensing Training.pdf",
+  "name": "UiPath Licensing Training",
+  "provider": "UiPath",
+  "earnDate": "2019-06-09",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190615 Asegurar Aplicaciones Y Contenedores Docker Con Veracode.pdf",
+  "name": "Asegurar Aplicaciones y Contenedores Docker con Veracode",
+  "provider": "BrightTALK",
+  "earnDate": "2019-06-15",
+  "hours": 0.7,
+  "price": 0,
+  "tags": [
+   "docker",
+   "security",
+   "programming"
+  ]
+ },
+ {
+  "file": "20190717 Introducción A Apache Nifi.pdf",
+  "name": "Introduction to Apache NiFi (Hortonworks DataFlow - HDF 2.0)",
+  "provider": "Udemy",
+  "earnDate": "2019-07-17",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data",
+   "etl"
+  ]
+ },
+ {
+  "file": "20190720 - Build Your First Bot A Step-by-Step Tutorial.pdf",
+  "name": "Build Your First Bot: A Step-by-Step Tutorial",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-07-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190902 - Hello Bot Introduction To RPA.pdf",
+  "name": "Hello Bot: Introduction To RPA",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-09-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190903 - Build The Digital Workforce Create Bots Using Automation Anywhere V11.0.pdf",
+  "name": "Build The Digital Workforce: Create Bots Using Automation Anywhere V11.0",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-09-03",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190903 Hello Bot Introduction To RPA.pdf",
+  "name": "Hello Bot: Introduction To RPA",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-09-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190904 - Build The Digital Workforce Create Bots Using Automation Anywhere V11.0.pdf",
+  "name": "Build The Digital Workforce: Create Bots Using Automation Anywhere V11.0",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-09-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190904 - Lead the Digital Workforce Monitor, Measure & Manage Bot performance (V11.0).pdf",
+  "name": "Lead the Digital Workforce: Monitor, Measure & Manage Bot performance (V11.0)",
+  "provider": "Automation Anywhere",
+  "earnDate": "2019-09-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20190912 - Aws Backup Y Recuperaci+�n Ante Desastres La Lista De Verificaci+�n M+�s Completa.pdf (invalid encoding)",
+  "name": "AWS Backup y Recuperación ante desastres: la lista de verificación más completa",
+  "provider": "BrightTALK",
+  "earnDate": "2019-09-12",
+  "hours": 0.8,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20191011 - Desarrollador Back-end.pdf",
+  "name": "Desarrollador Back-end",
+  "provider": "Fundación Carlos Slim",
+  "earnDate": "2019-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "backend",
+   "programming"
+  ]
+ },
+ {
+  "file": "20191027 - RPA Implementation Methodology - Completion Diploma.pdf",
+  "name": "Implementation Methodology Training",
+  "provider": "UiPath",
+  "earnDate": "2019-10-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20191107 - ADM301 Nifi Flow Management.pdf",
+  "name": "ADM-301 Nifi Flow Management",
+  "provider": "Cloudera",
+  "earnDate": "2019-11-07",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data",
+   "etl"
+  ]
+ },
+ {
+  "file": "20191206 - Syncsort.pdf",
+  "name": "Attendee profile screenshot (Connect ETL: The Basics; Trillium Discovery: The Basics; Trillium Quality: The Basics; Trillium Software System: Repo...)",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "etl"
+  ]
+ },
+ {
+  "file": "20191206 - Trillium Software System Repository Manager.pdf",
+  "name": "Trillium Software System: Repository Manager",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality"
+  ]
+ },
+ {
+  "file": "20191222 - Connect ETL The Basics.pdf",
+  "name": "Connect ETL: The Basics",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-22",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "etl"
+  ]
+ },
+ {
+  "file": "20191224 - Trillium Discovery The Basics (Control Center).pdf",
+  "name": "Trillium Discovery: The Basics (Control Center)",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-24",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality"
+  ]
+ },
+ {
+  "file": "20191225 - Trillium Discovery The Basics (Discovery Center).pdf",
+  "name": "Trillium Discovery: The Basics (Discovery Center)",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-25",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality"
+  ]
+ },
+ {
+  "file": "20191229 - Trillium Quality The Basics (US Edition).pdf",
+  "name": "Trillium Quality: The Basics (US Edition)",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-29",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality"
+  ]
+ },
+ {
+  "file": "20191229 - Trillium Software System The Basics (US Edition).pdf",
+  "name": "Trillium Software System: The Basics (US Edition)",
+  "provider": "Syncsort University",
+  "earnDate": "2019-12-29",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality"
+  ]
+ },
+ {
+  "file": "20200202 - UiPath StudioX Training.pdf",
+  "name": "UiPath StudioX Training",
+  "provider": "UiPath",
+  "earnDate": "2020-02-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20200313 - Cloudera Developer Training for Spark & Hadood.pdf",
+  "name": "Cloudera Developer Training for Spark & Hadoop",
+  "provider": "Cloudera",
+  "earnDate": "2020-03-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data",
+   "cloud",
+   "programming"
+  ]
+ },
+ {
+  "file": "20200314 - RPA Developer Foundation.pdf",
+  "name": "RPA Developer Foundation",
+  "provider": "UiPath",
+  "earnDate": "2020-03-14",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation",
+   "programming"
+  ]
+ },
+ {
+  "file": "20200315 - RPA Infrastructure Training.pdf",
+  "name": "RPA Infrastructure Training",
+  "provider": "UiPath",
+  "earnDate": "2020-03-15",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20200316 - RPA Business Analyst Training.pdf",
+  "name": "RPA Business Analyst Training",
+  "provider": "UiPath",
+  "earnDate": "2020-03-16",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20200316 - RPA Starter Training.pdf",
+  "name": "RPA Starter Training",
+  "provider": "UiPath",
+  "earnDate": "2020-03-16",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20200329 - Aprende a crear tu primer sitio web con laravel 54.pdf",
+  "name": "Aprende a crear tu primer sitio web con Laravel 5.4",
+  "provider": "Udemy",
+  "earnDate": "2020-03-29",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "laravel"
+  ]
+ },
+ {
+  "file": "20200329 - Bash Interprete de Comandos Linux.pdf",
+  "name": "Bash - Intérprete de Comandos de Linux. Aprende desde cero",
+  "provider": "Udemy",
+  "earnDate": "2020-03-29",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "linux"
+  ]
+ },
+ {
+  "file": "20200331 - Docker for beginners.pdf",
+  "name": "Docker for beginners",
+  "provider": "Udemy",
+  "earnDate": "2020-03-31",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "docker"
+  ]
+ },
+ {
+  "file": "20200920 - CCA 175 Spark and Hadoop Developer Certification - Scala.pdf",
+  "name": "CCA 175 - Spark and Hadoop Developer Certification - Scala",
+  "provider": "Udemy",
+  "earnDate": "2020-09-20",
+  "hours": 28.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data",
+   "programming"
+  ]
+ },
+ {
+  "file": "20200923 - Hadoop Starter Kit.pdf",
+  "name": "Hadoop Starter Kit",
+  "provider": "Udemy",
+  "earnDate": "2020-09-23",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data"
+  ]
+ },
+ {
+  "file": "20200923 - Using Microsoft Bot Framework v3, LUIS, Cognitive Services.pdf",
+  "name": "Using Microsoft Bot Framework v3, LUIS, Cognitive Services",
+  "provider": "Udemy",
+  "earnDate": "2020-09-23",
+  "hours": 4.5,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation",
+   "ai"
+  ]
+ },
+ {
+  "file": "20200924 - Become an Android Developer from Scratch.pdf",
+  "name": "Become an Android Developer from Scratch",
+  "provider": "Udemy",
+  "earnDate": "2020-09-24",
+  "hours": 12.5,
+  "price": 0,
+  "tags": [
+   "android",
+   "programming"
+  ]
+ },
+ {
+  "file": "20200924 - Learn Ruby on Rails from Scratch.pdf",
+  "name": "Learn Ruby on Rails from Scratch",
+  "provider": "Udemy",
+  "earnDate": "2020-09-24",
+  "hours": 9.5,
+  "price": 0,
+  "tags": [
+   "ruby"
+  ]
+ },
+ {
+  "file": "20200926 - AWS Concepts.pdf",
+  "name": "AWS Concepts",
+  "provider": "Udemy",
+  "earnDate": "2020-09-26",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20201220 - Driverless AI Tutorial - AutoML Intro.pdf",
+  "name": "Driverless AI Tutorial - AutoML Intro - Completed",
+  "provider": "H2O.ai",
+  "earnDate": "2020-12-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "ai"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Course Assesment.png",
+  "name": "AWS Technical Professional - Course Assessment",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.5,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 1.png",
+  "name": "AWS Technical Professional - Module 1: Introduction",
+  "provider": "AWS",
+  "earnDate": "2021-06-23",
+  "hours": 0.03,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 2.png",
+  "name": "AWS Technical Professional - Module 2: AWS Core Technologies",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.72,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 3.png",
+  "name": "AWS Technical Professional - Module 3: From Services to Solutions",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.5,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 4.png",
+  "name": "AWS Technical Professional - Module 4: Presenting AWS Solutions to Customers",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.58,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 5.png",
+  "name": "AWS Technical Professional - Module 5: Looking Ahead",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.3,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210624 - AWS Techinical Professional - Module 6.png",
+  "name": "AWS Technical Professional - Module 6: AWS Partner Network (APN) Resources",
+  "provider": "AWS",
+  "earnDate": "2021-06-24",
+  "hours": 0.27,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud",
+   "networking"
+  ]
+ },
+ {
+  "file": "20210827 - Cloud Modernization Cloude Datawarehouse Cloud Data Lake.pdf",
+  "name": "Session 1 | Cloud Modernization: Cloud Data Warehouse & Cloud Data Lake",
+  "provider": "Informatica",
+  "earnDate": "2021-08-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210828 - Cloud Modernization Data Catalog, Data Integration and Mass Ingestion.pdf",
+  "name": "Session 2 | Cloud Modernization: Data Catalog, Data Integration, & Mass Ingestion",
+  "provider": "Informatica",
+  "earnDate": "2021-08-28",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "etl",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20210829 - Aprende diseño de interfaz (UI) con Figma.pdf",
+  "name": "Aprende diseño de interfaz (UI) con Figma",
+  "provider": "Udemy",
+  "earnDate": "2021-08-29",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "design"
+  ]
+ },
+ {
+  "file": "20210829 - CCA 159 - Data Analyst using Sqoop, Hive and Impala.pdf",
+  "name": "CCA 159 - Data Analyst using Sqoop, Hive and Impala",
+  "provider": "Udemy",
+  "earnDate": "2021-08-29",
+  "hours": 20.5,
+  "price": 0,
+  "tags": [
+   "data",
+   "big data"
+  ]
+ },
+ {
+  "file": "20210829 - Gitlab 101.pdf",
+  "name": "GitLab 101",
+  "provider": "GitLab Learn",
+  "earnDate": "2021-08-29",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops",
+   "git",
+   "gitlab"
+  ]
+ },
+ {
+  "file": "20210830 - Aprende Typescript desde cero.pdf",
+  "name": "Aprende TypeScript desde cero",
+  "provider": "Udemy",
+  "earnDate": "2021-08-30",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "typescript"
+  ]
+ },
+ {
+  "file": "20210830 - Python And Flask Framework Complete Course.pdf",
+  "name": "Python And Flask Framework Complete Course",
+  "provider": "Udemy",
+  "earnDate": "2021-08-30",
+  "hours": 12.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20210831 - JavaScript for Beginners - The Complete introduction to JS.pdf",
+  "name": "JavaScript for Beginners - The Complete introduction to JS",
+  "provider": "Udemy",
+  "earnDate": "2021-08-31",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20210831 - Practical MEAN stack Mastery course.pdf",
+  "name": "Practical MEAN stack Mastery course",
+  "provider": "Udemy",
+  "earnDate": "2021-08-31",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20210901 - Data Governance and Privacy - Data Democratization.pdf",
+  "name": "Data Governance and Privacy: Data Democratization (Session 1)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-01",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data governance"
+  ]
+ },
+ {
+  "file": "20210901 - Data Governance and Privacy - Data Governance for Analytics.pdf",
+  "name": "Data Governance and Privacy: Data Governance for Analytics (Session 2)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-01",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data governance",
+   "data science"
+  ]
+ },
+ {
+  "file": "20210901 - Gitlab 201.pdf",
+  "name": "GitLab 201",
+  "provider": "GitLab Learn",
+  "earnDate": "2021-09-01",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops",
+   "git",
+   "gitlab"
+  ]
+ },
+ {
+  "file": "20210901 - Montajes de Servidores en Linux desde Cero.pdf",
+  "name": "Montajes de Servidores en Linux desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2021-09-01",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "linux"
+  ]
+ },
+ {
+  "file": "20210903 -  Python para no matemáticos- De 0 hasta reconocimiento facial.pdf",
+  "name": "Python para no matemáticos: De 0 hasta reconocimiento facial",
+  "provider": "Udemy",
+  "earnDate": "2021-09-03",
+  "hours": 8.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20210903 - PHP for Beginners 2021- The Complete PHP MySQL PDO Course.pdf",
+  "name": "PHP for Beginners 2021: The Complete PHP MySQL PDO Course",
+  "provider": "Udemy",
+  "earnDate": "2021-09-03",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "php",
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20210903 - Visual Studio Code Ultimate Course.pdf",
+  "name": "Visual Studio Code Ultimate Course",
+  "provider": "Udemy",
+  "earnDate": "2021-09-03",
+  "hours": 5.0,
+  "price": 0,
+  "tags": [
+   "programming"
+  ]
+ },
+ {
+  "file": "20210904 - Automate the Boring Stuff with Python Programming.pdf",
+  "name": "Automate the Boring Stuff with Python Programming",
+  "provider": "Udemy",
+  "earnDate": "2021-09-04",
+  "hours": 9.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "automation",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210904 - SQL Consultas básicas a complejas.pdf",
+  "name": "SQL: Consultas básicas a complejas.",
+  "provider": "Udemy",
+  "earnDate": "2021-09-04",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database"
+  ]
+ },
+ {
+  "file": "20210905 - Curso Completo de React.pdf",
+  "name": "Curso Completo de React",
+  "provider": "Udemy",
+  "earnDate": "2021-09-05",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20210906 -  Angular 12 - Complete Beginner's Guide 2021 [Step by Step].pdf",
+  "name": "Angular 12 - Complete Beginner's Guide 2021 [Step by Step]",
+  "provider": "Udemy",
+  "earnDate": "2021-09-06",
+  "hours": 6.0,
+  "price": 0,
+  "tags": [
+   "angular"
+  ]
+ },
+ {
+  "file": "20210906 - Object Oriented Programming in C++ & Interview Preparation.pdf",
+  "name": "Object Oriented Programming in C++ & Interview Preparation",
+  "provider": "Udemy",
+  "earnDate": "2021-09-06",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "c++",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210913 - Business 360 - Master Data Management.pdf",
+  "name": "Business 360: Master Data Management (Session 1)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data governance"
+  ]
+ },
+ {
+  "file": "20210913 - Business 360 Data Management For Customer & Reference.pdf",
+  "name": "Business 360: Data Management for Customer & Reference (Session 2)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data"
+  ]
+ },
+ {
+  "file": "20210927 - HTML - Desde cero (Aprende y domina HTML5) + Infografias.pdf",
+  "name": "HTML: Desde cero (Aprende y domina HTML5) + Infografias",
+  "provider": "Udemy",
+  "earnDate": "2021-09-27",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "html",
+   "web"
+  ]
+ },
+ {
+  "file": "20210927 - Module 01 - Course Introduction_ Data Quality_ Data Quality Management for Developers (Module).pdf",
+  "name": "Module 01: Course Introduction: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210927 - Module 02 - Data Quality Process Overview_ Data Quality_ Data Quality Management for Developers (Module).pdf",
+  "name": "Module 02: Data Quality Process Overview: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210927 - Module 03 - Data Quality Projects and Solutions_ Data Quality_ Data Quality Management for Developers (Module).pdf",
+  "name": "Module 03: Data Quality Projects and Solutions: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210927 - Node, Express, React JS & MySQL full stack web development.pdf",
+  "name": "Node, Express, React JS & MySQL full stack web development",
+  "provider": "Udemy",
+  "earnDate": "2021-09-27",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "react",
+   "web",
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20210927 - PHP y MySQL - Proyecto de Agenda Personal de Contactos.pdf",
+  "name": "PHP y MySQL - Proyecto de Agenda Personal de Contactos",
+  "provider": "Udemy",
+  "earnDate": "2021-09-27",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "php",
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20210928 - Module 04 - Project Collaboration and Reference Table Management - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 04: Project Collaboration and Reference Table Management: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-27",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20210929 - Introducción a Python.pdf",
+  "name": "Introducción a Python",
+  "provider": "Udemy",
+  "earnDate": "2021-09-29",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20210929 - Learn JavaScript - For Beginners.pdf",
+  "name": "Learn JavaScript - For Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-09-29",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20210930 - Data Quality - Data Quality Management for Developers (onDemand Lab Guide) (DQ10.1.1-MAN-DEV-OD-202007).pdf",
+  "name": "Data Quality: Data Quality Management for Developers (onDemand Lab Guide) (DQ10.1.1-MAN-DEV-OD-202007)",
+  "provider": "Informatica",
+  "earnDate": "2021-09-30",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211002 - C# desde 0 - Inicia tu carrera como programador.pdf",
+  "name": "C# desde 0: Inicia tu carrera como programador",
+  "provider": "Udemy",
+  "earnDate": "2021-10-02",
+  "hours": 22.0,
+  "price": 0,
+  "tags": [
+   "c#",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211002 - CSS And Javascript Crash Course.pdf",
+  "name": "CSS And Javascript Crash Course",
+  "provider": "Udemy",
+  "earnDate": "2021-10-02",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211002 - Spring boot en simples pasos.pdf",
+  "name": "Spring boot en simples pasos",
+  "provider": "Udemy",
+  "earnDate": "2021-10-02",
+  "hours": 13.5,
+  "price": 0,
+  "tags": [
+   "spring boot"
+  ]
+ },
+ {
+  "file": "20211004 - CSS And JavaScript Complete Course For Beginners.pdf",
+  "name": "CSS And JavaScript Complete Course For Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-04",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211004 - De 0 a Programador - Python desde 0.pdf",
+  "name": "De 0 a Programador: Python desde 0",
+  "provider": "Udemy",
+  "earnDate": "2021-10-04",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211004 - Universidad CSS - Aprender CSS desde Cero hasta Profundizar!.pdf",
+  "name": "Universidad CSS - Aprender CSS desde Cero hasta Profundizar!",
+  "provider": "Udemy",
+  "earnDate": "2021-10-04",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211004 - Universidad HTML - Aprende HTML desde Cero hasta Experto!.pdf",
+  "name": "Universidad HTML - Aprende HTML desde Cero hasta Experto!",
+  "provider": "Udemy",
+  "earnDate": "2021-10-04",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "html",
+   "web"
+  ]
+ },
+ {
+  "file": "20211005 - Aprende SQL SERVER desde cero. Crea tu propia base de datos.pdf",
+  "name": "Aprende SQL SERVER desde cero. Crea tu propia base de datos",
+  "provider": "Udemy",
+  "earnDate": "2021-10-05",
+  "hours": 13.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "data"
+  ]
+ },
+ {
+  "file": "20211005 - CSS & JavaScript - Certification Course for Beginners.pdf",
+  "name": "CSS & JavaScript - Certification Course for Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-05",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211005 - Complete Progressive Web App Bootcamp.pdf",
+  "name": "Complete Progressive Web App Bootcamp",
+  "provider": "Udemy",
+  "earnDate": "2021-10-05",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "web"
+  ]
+ },
+ {
+  "file": "20211005 - Diploma in Java Programming Certification.pdf",
+  "name": "Diploma in Java Programming Certification",
+  "provider": "Udemy",
+  "earnDate": "2021-10-05",
+  "hours": 24.5,
+  "price": 0,
+  "tags": [
+   "java",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211005 - Git and GitHub For Beginners.pdf",
+  "name": "Git and GitHub For Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-05",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "git",
+   "github"
+  ]
+ },
+ {
+  "file": "20211005 - Module 05 - Working in the Developer Tool - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 05: Working in the Developer Tool: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-05",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211005 - Module 06 - Profiling, Mapplets and Rules - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 06: Profiling, Mapplets and Rules: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-05",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211006 - Microcontroladores PIC32 con chipKIT Uno32.pdf",
+  "name": "Microcontroladores PIC32 con chipKIT Uno32",
+  "provider": "Udemy",
+  "earnDate": "2021-10-06",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "hardware"
+  ]
+ },
+ {
+  "file": "20211006 - Python Programming & Software Design For Absolute Beginners.pdf",
+  "name": "Python Programming & Software Design For Absolute Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-06",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211006 - The Complete CSS course.pdf",
+  "name": "The Complete CSS course",
+  "provider": "Udemy",
+  "earnDate": "2021-10-06",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211006 - Universidad de Programación - Python, Java y JavaScript.pdf",
+  "name": "Universidad de Programación 2021 - Python, Java y JavaScript",
+  "provider": "Udemy",
+  "earnDate": "2021-10-06",
+  "hours": 78.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "java",
+   "javascript",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211009 -  Curso Javascript 2021.pdf",
+  "name": "Curso Javascript 2021",
+  "provider": "Udemy",
+  "earnDate": "2021-10-09",
+  "hours": 12.0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20211009 - Aprende CSS Completo 2021.pdf",
+  "name": "Aprende CSS Completo 2021",
+  "provider": "Udemy",
+  "earnDate": "2021-10-09",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211009 - Aprende HTML5 2021.pdf",
+  "name": "Aprende HTML5 2021",
+  "provider": "Udemy",
+  "earnDate": "2021-10-09",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "html",
+   "web"
+  ]
+ },
+ {
+  "file": "20211009 - JavaScript, Bootstrap, & PHP - Certification for Beginners.pdf",
+  "name": "JavaScript, Bootstrap, & PHP - Certification for Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-09",
+  "hours": 6.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "css",
+   "web",
+   "php"
+  ]
+ },
+ {
+  "file": "20211009 - Swift 5 for Absolute Beginners.pdf",
+  "name": "Swift 5 for Absolute Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-09",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20211010 -  Learn Python Scripting - Scripting Masterclass 2021.pdf",
+  "name": "Learn Python Scripting - Scripting Masterclass 2021",
+  "provider": "Udemy",
+  "earnDate": "2021-10-10",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211010 -  Python Course From Basic to Advanced.pdf",
+  "name": "Python Course From Basic to Advanced",
+  "provider": "Udemy",
+  "earnDate": "2021-10-10",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211010 - API Developer (Python-Django Rest-Flask-PostgreSQL-Postman).pdf",
+  "name": "API Developer (Python/Django Rest/Flask/PostgreSQL/Postman)",
+  "provider": "Udemy",
+  "earnDate": "2021-10-10",
+  "hours": 5.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "sql",
+   "database",
+   "testing",
+   "apis",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211010 - Computer Vision with Python.pdf",
+  "name": "Computer Vision with Python",
+  "provider": "Udemy",
+  "earnDate": "2021-10-10",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "ai"
+  ]
+ },
+ {
+  "file": "20211010 - Module 07 - Cleansing, Standardizing and Enhancing Data- Data Quality- Data Quality Management for Developers (Module).pdf",
+  "name": "Module 07: Cleansing, Standardizing and Enhancing Data: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-10",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211010 - Module 08 - Parsing Data - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 08: Parsing Data: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-10",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 -  Module 09 - Grouping and Matching Data- Data Quality Management for Developers (Module).pdf",
+  "name": "Module 09: Grouping and Matching Data: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - Complete Java Programming Certification Beginner to Advance.pdf",
+  "name": "Complete Java Programming Certification Beginner to Advance",
+  "provider": "Udemy",
+  "earnDate": "2021-10-11",
+  "hours": 9.5,
+  "price": 0,
+  "tags": [
+   "java",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - Curso baásico de SASS, CSS3, HTML5 y jQuery creando un sitio.pdf",
+  "name": "Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio",
+  "provider": "Udemy",
+  "earnDate": "2021-10-11",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "html",
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211011 - Module 10 - Manual Exception and Consolidation Management - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 10: Manual Exception and Consolidation Management: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "architecture",
+   "design patterns",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - Module 11 - Building, Managing and Deploying Workflows - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 11: Building, Managing and Deploying Workflows: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - Module 12 - Deploying - Executing Mappings outside of the Developer tool - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 12: Deploying: Executing Mappings outside of the Developer tool: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - Module 14 - Troubleshooting - Data Quality - Data Quality Management for Developers (Module).pdf",
+  "name": "Module 14: Troubleshooting: Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-11",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211011 - React JS Notes App & Crash Course.pdf",
+  "name": "React JS Notes App & Crash Course",
+  "provider": "Udemy",
+  "earnDate": "2021-10-11",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "react"
+  ]
+ },
+ {
+  "file": "20211011 - Universidad Python - De Cero a Experto Más Completo +71 hrs.pdf",
+  "name": "Universidad Python 2021 - POO, Tkinter, Django, Flask y más",
+  "provider": "Udemy",
+  "earnDate": "2021-10-11",
+  "hours": 43.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211013 - Data Quality - Data Quality Management for Developers (onDemand).pdf",
+  "name": "Data Quality: Data Quality Management for Developers (onDemand)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211013 - Data Quality- Data Quality Management for the Developer, Lab Only (40 Hours).pdf",
+  "name": "Data Quality: Data Quality Management for the Developer, Lab Only (40 Hours)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-13",
+  "hours": 40.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211013 - Module 13- Importing and Exporting Project Objects - Data Quality- Data Quality Management for Developers (Module).pdf",
+  "name": "Module 13: Importing and Exporting Project Objects : Data Quality: Data Quality Management for Developers (Module)",
+  "provider": "Informatica",
+  "earnDate": "2021-10-13",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "data quality",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211017 - Complete Python & Python OOP with Exercises& Projects in2021.pdf",
+  "name": "Complete Python & Python OOP with Exercises& Projects in2021",
+  "provider": "Udemy",
+  "earnDate": "2021-10-17",
+  "hours": 5.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211018 - Introducción a la Programaci+�n con el Lenguaje C desde Cero.pdf",
+  "name": "Introducción a la Programación con el Lenguaje C desde Cero.",
+  "provider": "Udemy",
+  "earnDate": "2021-10-18",
+  "hours": 10.5,
+  "price": 0,
+  "tags": [
+   "c",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211019 - Build Full-Stack Projects with FARM stack.pdf",
+  "name": "Build Full-Stack Projects with FARM stack",
+  "provider": "Udemy",
+  "earnDate": "2021-10-19",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "python",
+   "mongodb",
+   "react",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211019 - Modern React Developer Masterclass for Beginners (2021).pdf",
+  "name": "Modern React Developer Masterclass for Beginners (2021)",
+  "provider": "Udemy",
+  "earnDate": "2021-10-19",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "react",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211019 - NodeJs- Build The Complete E-Commerce Web API [2021].pdf",
+  "name": "NodeJs: Build The Complete E-Commerce Web API [2021]",
+  "provider": "Udemy",
+  "earnDate": "2021-10-19",
+  "hours": 6.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "web",
+   "apis"
+  ]
+ },
+ {
+  "file": "20211019 - OWASP 2017.pdf",
+  "name": "OWASP 2017",
+  "provider": "Veracode",
+  "earnDate": "2021-10-19",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211019 - SQL for Data Analysis - with SQL Server.pdf",
+  "name": "SQL for Data Analysis - with SQL Server",
+  "provider": "Udemy",
+  "earnDate": "2021-10-19",
+  "hours": 5.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "data",
+   "data science"
+  ]
+ },
+ {
+  "file": "20211019 - Web Scraping con Python - Extraccioón y Automatizacioón Web.pdf",
+  "name": "Web Scraping con Python - Extracción y Automatización Web",
+  "provider": "Udemy",
+  "earnDate": "2021-10-19",
+  "hours": 8.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "web"
+  ]
+ },
+ {
+  "file": "20211021 - CICD en Gitlab vía FTP - Despliegue automática de tu código.pdf",
+  "name": "CI/CD en Gitlab vía FTP: Despliegue automático de tu código",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "devops",
+   "git",
+   "gitlab",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211021 - JavaScript desde cero con NodeJS.pdf",
+  "name": "JavaScript: Desde cero con NodeJS",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 12.0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20211021 - MERN Stack with Blog Project.pdf",
+  "name": "MERN Stack with Blog Project",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20211021 - Microsoft SQL Server for Beginners - Crash Course.pdf",
+  "name": "Microsoft SQL Server for Beginners | Crash Course",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database"
+  ]
+ },
+ {
+  "file": "20211021 - SQL Data Analyst - SQL , Microsoft SQL, PostgreSQL, MySQL.pdf",
+  "name": "SQL Data Analyst - SQL , Microsoft SQL, PostgreSQL, MySQL",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 10.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "mysql",
+   "database",
+   "data"
+  ]
+ },
+ {
+  "file": "20211021 - The Complete ReactJs Course - Basics to Advanced (2021).pdf",
+  "name": "The Complete ReactJs Course - Basics to Advanced (2021)",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20211021 - The Python Programming For Everyone Immersive Training.pdf",
+  "name": "The Python Programming For Everyone Immersive Training",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211021 - Universidad Desarrollo Web 2021 - FrontEnd Web Developer!.pdf",
+  "name": "Universidad Desarrollo Web 2021 - FrontEnd Web Developer!",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 30.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211021 - WordPress Site Super Easy Crash Course for Beginners.pdf",
+  "name": "WordPress Site Super Easy Crash Course for Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-10-21",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "wordpress"
+  ]
+ },
+ {
+  "file": "20211024 - CRUD con PHP MySQL Bootstrap jQuery Ajax y Docker.pdf",
+  "name": "CRUD con PHP MySQL Bootstrap jQuery Ajax y Docker",
+  "provider": "Udemy",
+  "earnDate": "2021-10-24",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "css",
+   "web",
+   "php",
+   "sql",
+   "mysql",
+   "database",
+   "docker"
+  ]
+ },
+ {
+  "file": "20211024 - Desarrollo De Aplicaciones Web Con JavaScript (Edición 2021).pdf",
+  "name": "Desarrollo De Aplicaciones Web Con JavaScript (Edición 2021)",
+  "provider": "Udemy",
+  "earnDate": "2021-10-24",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "web",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211024 - Iniciacion a la programacion con JavaScript.pdf",
+  "name": "Iniciacion a la programacion con JavaScript",
+  "provider": "Udemy",
+  "earnDate": "2021-10-24",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "terraform",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211024 - Python3 - Curso completo de cero a experto.pdf",
+  "name": "Python 3: Curso completo de cero a experto",
+  "provider": "Udemy",
+  "earnDate": "2021-10-24",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211024 - The Complete Full-Stack JavaScript Course!.pdf",
+  "name": "The Complete Full-Stack JavaScript Course!",
+  "provider": "Udemy",
+  "earnDate": "2021-10-24",
+  "hours": 24.5,
+  "price": 0,
+  "tags": [
+   "javascript"
+  ]
+ },
+ {
+  "file": "20211029 - C++ Para Principiantes.pdf",
+  "name": "C++ Para Principiantes",
+  "provider": "Udemy",
+  "earnDate": "2021-10-29",
+  "hours": 4.5,
+  "price": 0,
+  "tags": [
+   "c++"
+  ]
+ },
+ {
+  "file": "20211029 - Curso de Linux desde cero.pdf",
+  "name": "Curso de Linux desde cero",
+  "provider": "Udemy",
+  "earnDate": "2021-10-29",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "linux"
+  ]
+ },
+ {
+  "file": "20211029 - JAVA Emplieza desde cero con InterlliJ.pdf",
+  "name": "JAVA: Empieza desde cero con IntelliJ",
+  "provider": "Udemy",
+  "earnDate": "2021-10-29",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20211029 - PHP y MYSQL - Convierte cualquier template HTML en una WebAPP.pdf",
+  "name": "PHP y MYSQL: Convierte cualquier template HTML en una WebAPP",
+  "provider": "Udemy",
+  "earnDate": "2021-10-29",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "html",
+   "web",
+   "php",
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20211029 - Tailwind CSS - La NUEVA Generación de CSS.pdf",
+  "name": "Tailwind CSS - La NUEVA Generación de CSS",
+  "provider": "Udemy",
+  "earnDate": "2021-10-29",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "css",
+   "web"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Coding Foundations - Authorization.pdf",
+  "name": "Secure Coding Foundations - Authorization",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Coding Foundations - Data Protection.pdf",
+  "name": "Secure Coding Foundations - Data Protection",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "data",
+   "security"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Coding Foundations - Information Handling.pdf",
+  "name": "Secure Coding Foundations - Information Handling",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Coding Foundations - Trust boundaries.pdf",
+  "name": "Secure Coding Foundations - Trust Boundaries",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "rust"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Coding Foundations - Validation and Encoding.pdf",
+  "name": "Secure Coding Foundations - Validation and Encoding",
+  "provider": "Veracode",
+  "earnDate": "2021-11-03",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Software Remediation Basics.pdf",
+  "name": "Secure Software Remediation Basics",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211102 - Secure Software Remediations Basics.pdf",
+  "name": "Overview of Mobile Application Security",
+  "provider": "Veracode",
+  "earnDate": "2021-11-02",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211104 - Level1 Developer Security Fundamentals.pdf",
+  "name": "Developer Security Fundamentals - Learner Level 1",
+  "provider": "Veracode",
+  "earnDate": "2021-11-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211104 - Secure Coding Foundations - Authentication.pdf",
+  "name": "Secure Coding Foundations - Authentication",
+  "provider": "Veracode",
+  "earnDate": "2021-11-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211104 - Secure Coding Foundations - Configuration and Deployment.pdf",
+  "name": "Secure Coding Foundations - Configuration and Deployment",
+  "provider": "Veracode",
+  "earnDate": "2021-11-04",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211113 - Taller - Sistemas de integración con Apache Camel.jpg",
+  "name": "Taller: Sistema de integración con Apache Camel",
+  "provider": "MAINT",
+  "earnDate": "2021-11-13",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "integration",
+   "java"
+  ]
+ },
+ {
+  "file": "20211122 - Advanced Foundations of Python Programming 2021 Training.pdf",
+  "name": "Advanced Foundations of Python Programming | 2021 Training",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211122 - Crea un CRUD con Laravel, Sweetalert2, Toastr, Vuejs y Axios.pdf",
+  "name": "Crea un CRUD con Laravel, Sweetalert2, Toastr, Vuejs y Axios",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "vue",
+   "web",
+   "laravel",
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20211122 - Cuanto Vale Tu Trabajo - Presupuestos para cada meta personal.pdf",
+  "name": "Cuanto Vale Tu Trabajo? Presupuestos para cada meta personal",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "soft skills"
+  ]
+ },
+ {
+  "file": "20211122 - Curso MySQL desde 123 hasta el Infinito.pdf",
+  "name": "Curso MySQL desde 123 hasta el Infinito",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 10.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20211122 - Learn to Code in Python 3 - Programming beginner to advanced.pdf",
+  "name": "Learn to Code in Python 3: Programming beginner to advanced",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 5.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211122 - Modern PHP Web Development MySQL, GitHub & Heroku.pdf",
+  "name": "Modern PHP Web Development w/ MySQL, GitHub & Heroku",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 12.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "php",
+   "sql",
+   "mysql",
+   "database",
+   "git",
+   "github"
+  ]
+ },
+ {
+  "file": "20211122 - MySQL Database Development Mastery.pdf",
+  "name": "MySQL Database Development Mastery",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 4.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "mysql",
+   "database"
+  ]
+ },
+ {
+  "file": "20211122 - Object Detection Web App with TensorFlow, OpenCV and Flask.pdf",
+  "name": "Object Detection Web App with TensorFlow, OpenCV and Flask",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "web",
+   "ai"
+  ]
+ },
+ {
+  "file": "20211122 - Python 3 Análisis y visualización de datos.pdf",
+  "name": "Python 3: Análisis y visualización de datos",
+  "provider": "Udemy",
+  "earnDate": "2021-11-22",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "data",
+   "data science"
+  ]
+ },
+ {
+  "file": "20211123 - Build personal Portfolio Site using Python Django -Beginners.pdf",
+  "name": "Build personal Portfolio Site using Python/Django - Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-11-23",
+  "hours": 16.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211123 - Crea tu propio juego con Python.pdf",
+  "name": "Crea tu propio juego con Python",
+  "provider": "Udemy",
+  "earnDate": "2021-11-23",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211123 - Learn Python By building Games in Python.pdf",
+  "name": "Learn Python By building Games in Python",
+  "provider": "Udemy",
+  "earnDate": "2021-11-23",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211123 - Make Laravel and Laravel 8 APIs and Apps fast with blueprint.pdf",
+  "name": "Make Laravel and Laravel 8 APIs and Apps fast with blueprint",
+  "provider": "Udemy",
+  "earnDate": "2021-11-23",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "laravel",
+   "apis"
+  ]
+ },
+ {
+  "file": "20211123 - Rust for Beginners.pdf",
+  "name": "Rust for Beginners",
+  "provider": "Udemy",
+  "earnDate": "2021-11-23",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "rust"
+  ]
+ },
+ {
+  "file": "20211203 - ASP.NET CORE MVC (.NET 5) Build a Complete eCommerce App.pdf",
+  "name": "ASP.NET CORE MVC (.NET 5) | Build a Complete eCommerce App",
+  "provider": "Udemy",
+  "earnDate": "2021-12-03",
+  "hours": 11.5,
+  "price": 0,
+  "tags": [
+   "c#",
+   ".net"
+  ]
+ },
+ {
+  "file": "20211203 - Alojamiento de Sitio Web en Modo Serverless en AWS.pdf",
+  "name": "Alojamiento de Sitio Web en Modo Serverless en AWS",
+  "provider": "Udemy",
+  "earnDate": "2021-12-03",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20211203 - SQL Masterclass SQL for Data Analytics.pdf",
+  "name": "SQL Masterclass: SQL for Data Analytics",
+  "provider": "Udemy",
+  "earnDate": "2021-12-03",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "data",
+   "data science"
+  ]
+ },
+ {
+  "file": "20211204 - Aprende a Programar con Python. Practicando con proyectos.pdf",
+  "name": "Aprende a Programar con Python. Practicando con proyectos",
+  "provider": "Udemy",
+  "earnDate": "2021-12-04",
+  "hours": 15.5,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211204 - Aprende en 2021 RÀPIDAMENTE Power BI en Español.pdf",
+  "name": "Aprende en 2021 RÁPIDAMENTE Power BI en Español",
+  "provider": "Udemy",
+  "earnDate": "2021-12-04",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20211204 - Python And Django Framework For Beginners Complete Course.pdf",
+  "name": "Python And Django Framework For Beginners Complete Course",
+  "provider": "Udemy",
+  "earnDate": "2021-12-04",
+  "hours": 13.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211204 - React Desde Cero.pdf",
+  "name": "React Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2021-12-04",
+  "hours": 35.5,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20211204 - Software Developer - C#, OOP, ASP.NET MVC, MS SQL, SQL Server.pdf",
+  "name": "Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server",
+  "provider": "Udemy",
+  "earnDate": "2021-12-04",
+  "hours": 12.0,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "c#",
+   ".net",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211206 - CC++ Memory Management Risks and Best Practices.pdf",
+  "name": "C/C++ Memory Management Risks and Best Practices",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "c++"
+  ]
+ },
+ {
+  "file": "20211206 - Cross Site Request Forgery (CSRF) Explained.pdf",
+  "name": "Cross Site Request Forgery (CSRF) Explained",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211206 - FullStack Application Spring Boot and React.pdf",
+  "name": "FullStack Application Spring Boot and React",
+  "provider": "Udemy",
+  "earnDate": "2021-12-06",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "react"
+  ]
+ },
+ {
+  "file": "20211206 - Introduction to Web Application Security.pdf",
+  "name": "Introduction to Web Application Security",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "web",
+   "security"
+  ]
+ },
+ {
+  "file": "20211206 - Level 2 - Verified Team Security Champion.pdf",
+  "name": "Verified Team Security Champion (Learner Level 2 of the Veracode Verified program)",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211206 - Level 3 - Verified Continuous Security Champion.pdf",
+  "name": "Verified Continuous Security Champion (Learner Level 3 of the Veracode Verified program)",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211206 - Secure Architecture & Design.pdf",
+  "name": "Secure Architecture & Design",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security",
+   "architecture"
+  ]
+ },
+ {
+  "file": "20211206 - Secure Coding for Python - Data at Rest.pdf",
+  "name": "Secure Coding for Python - Data at Rest",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "python",
+   "data",
+   "security",
+   "apis"
+  ]
+ },
+ {
+  "file": "20211206 - Secure Coding for Python - Design and Maintenance.pdf",
+  "name": "Secure Coding for Python - Design and Maintenance",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "python",
+   "security",
+   "maint"
+  ]
+ },
+ {
+  "file": "20211206 - Secure Coding for Python.pdf",
+  "name": "Secure Coding for Python - Data in Use",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "python",
+   "data",
+   "security"
+  ]
+ },
+ {
+  "file": "20211206 - Threat Modeling.pdf",
+  "name": "Threat Modeling",
+  "provider": "Veracode",
+  "earnDate": "2021-12-06",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20211207 - Elixir for Beginners (programming language).pdf",
+  "name": "Elixir for Beginners (programming language)",
+  "provider": "Udemy",
+  "earnDate": "2021-12-07",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "elixir",
+   "programming"
+  ]
+ },
+ {
+  "file": "20211226 - Crea interfaces gráficas para escritorio con Python y PyQT.pdf",
+  "name": "Crea interfaces gráficas para escritorio con Python y PyQT",
+  "provider": "Udemy",
+  "earnDate": "2021-12-26",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "python"
+  ]
+ },
+ {
+  "file": "20211226 - Python 3 Plus Python desde Cero + Data Analysis y Matplot.pdf",
+  "name": "Python 3 Plus: Python desde Cero + Data Analysis y Matplot",
+  "provider": "Udemy",
+  "earnDate": "2021-12-26",
+  "hours": 14.5,
+  "price": 0,
+  "tags": [
+   "python",
+   "data",
+   "data science"
+  ]
+ },
+ {
+  "file": "20211226 - SQL Injections Unlocked - SQLi Web Attacks.pdf",
+  "name": "SQL Injections Unlocked - SQLi Web Attacks",
+  "provider": "Udemy",
+  "earnDate": "2021-12-26",
+  "hours": 5.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "sql",
+   "database",
+   "security"
+  ]
+ },
+ {
+  "file": "20211226 - The Complete React Redux Node Express MySQL Developer Course.pdf",
+  "name": "The Complete React Redux Node Express MySQL Developer Course",
+  "provider": "Udemy",
+  "earnDate": "2021-12-26",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "react",
+   "sql",
+   "mysql",
+   "database",
+   "programming"
+  ]
+ },
+ {
+  "file": "20220116 - UFTO01WBT-EX - UFT One 15.0 Digital Learning for Automation Testers with Specialist Exam.pdf",
+  "name": "UFTO01WBT-EX - UFT One 15.0 Digital Learning for Automation Testers with Specialist Exam",
+  "provider": "Micro Focus",
+  "earnDate": "2022-01-16",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "testing"
+  ]
+ },
+ {
+  "file": "20220214 - AWS Partner: Foundations (Business) (Classroom).pdf",
+  "name": "AWS Partner: Foundations (Business) (Classroom)",
+  "provider": "AWS",
+  "earnDate": "2022-02-10",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20220305 - Aprende lenguaje GO (GOLANG) desde 0.pdf",
+  "name": "Aprende lenguaje GO (GOLANG) desde 0",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 15.0,
+  "price": 0,
+  "tags": [
+   "go"
+  ]
+ },
+ {
+  "file": "20220305 - Despliegue de Proyecto de Node.js en Amazon Web Services.pdf",
+  "name": "Despliegue de Proyecto de Node.js en Amazon Web Services",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "web",
+   "aws"
+  ]
+ },
+ {
+  "file": "20220305 - Docker : Docker A-Z+Kubernetes Basics-HandsOn-DevOps(2022).pdf",
+  "name": "Docker : Docker A-Z+Kubernetes Basics-HandsOn-DevOps(2022)",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "docker",
+   "kubernetes",
+   "devops"
+  ]
+ },
+ {
+  "file": "20220305 - Docker Certified Associate (DCA) - With Kubernetes.pdf",
+  "name": "Docker Certified Associate (DCA) - With Kubernetes",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "docker",
+   "kubernetes"
+  ]
+ },
+ {
+  "file": "20220305 - Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu.pdf",
+  "name": "Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "web",
+   "php",
+   "wordpress",
+   "sql",
+   "mysql",
+   "database",
+   "nginx",
+   "linux"
+  ]
+ },
+ {
+  "file": "20220305 - Learn Flutter and Dart to create Android and IOS apps.pdf",
+  "name": "Learn Flutter and Dart to create Android and IOS apps",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios",
+   "android",
+   "flutter"
+  ]
+ },
+ {
+  "file": "20220305 - Nueva App móvil para clientes en sistema de Restaurante.pdf",
+  "name": "Nueva App móvil para clientes en sistema de Restaurante",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "mobile"
+  ]
+ },
+ {
+  "file": "20220305 - Sistema de asistencias en C# y SQLserver desde 0.pdf",
+  "name": "Sistema de asistencias en C# y SQLserver desde 0",
+  "provider": "Udemy",
+  "earnDate": "2022-03-05",
+  "hours": 12.5,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "c#"
+  ]
+ },
+ {
+  "file": "20220604 - Guía definitiva para crear APIs con Symfony 5 y API Platform .pdf",
+  "name": "Guía definitiva para crear APIs con Symfony 5 y API Platform",
+  "provider": "Udemy",
+  "earnDate": "2022-06-04",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "apis"
+  ]
+ },
+ {
+  "file": "20220604 - Introducción a la programación con Kotlin Desde Cero.pdf",
+  "name": "Introducción a la programación con Kotlin Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2022-06-04",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "kotlin",
+   "programming"
+  ]
+ },
+ {
+  "file": "20220604 - Power BI: 8 Proyectos reales para volverte un master .pdf",
+  "name": "Power BI: 8 Proyectos reales para volverte un master",
+  "provider": "Udemy",
+  "earnDate": "2022-06-04",
+  "hours": 4.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20220617 - Ransomware Pagar por lo que es nuestro.pdf",
+  "name": "Ransomware: Pagar por lo que es nuestro",
+  "provider": "MAINT",
+  "earnDate": "2022-06-17",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "security"
+  ]
+ },
+ {
+  "file": "20220820 - Blazor Basics Guide 2022 .pdf",
+  "name": "Blazor Basics Guide 2022",
+  "provider": "Udemy",
+  "earnDate": "2022-08-20",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "c#",
+   ".net"
+  ]
+ },
+ {
+  "file": "20220820 - Deno Basics Guide 2022",
+  "name": "Deno Basics Guide 2022",
+  "provider": "Udemy",
+  "earnDate": "2022-08-20",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "web"
+  ]
+ },
+ {
+  "file": "20220924 - Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.pdf",
+  "name": "Guía para Empezar una Carrera en Data Science e Inteligencia Artificial",
+  "provider": "Platzi",
+  "earnDate": "2022-12-24",
+  "hours": 11.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "ai",
+   "data science"
+  ]
+ },
+ {
+  "file": "20221214 - Introduccion a Java SE.pdf",
+  "name": "Curso de Introducción a Java SE",
+  "provider": "Platzi",
+  "earnDate": "2022-12-14",
+  "hours": 15.0,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20221215 - Java SE Orientado a Objetos.pdf",
+  "name": "Curso de Java SE Orientado a Objetos",
+  "provider": "Platzi",
+  "earnDate": "2022-12-15",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20221216 - Java SE Persistencia De Datos.pdf",
+  "name": "Curso de Java SE Persistencia de Datos",
+  "provider": "Platzi",
+  "earnDate": "2022-12-16",
+  "hours": 11.0,
+  "price": 0,
+  "tags": [
+   "java",
+   "data"
+  ]
+ },
+ {
+  "file": "20221224 - Cómo y Por Qué Aprender Data Science e Inteligencia Artificial.pdf",
+  "name": "Cómo y Por Qué Aprender Data Science e Inteligencia Artificial",
+  "provider": "Platzi",
+  "earnDate": "2022-12-24",
+  "hours": 14.0,
+  "price": 0,
+  "tags": [
+   "data",
+   "ai",
+   "data science"
+  ]
+ },
+ {
+  "file": "20221228 - Programación Funcional con Java SE.pdf",
+  "name": "Curso de Programación Funcional con Java SE",
+  "provider": "Platzi",
+  "earnDate": "2022-12-28",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "java",
+   "programming"
+  ]
+ },
+ {
+  "file": "20230123 - Java Spring.pdf",
+  "name": "Curso de Java Spring",
+  "provider": "Platzi",
+  "earnDate": "2023-01-23",
+  "hours": 16.0,
+  "price": 0,
+  "tags": [
+   "java",
+   "spring boot"
+  ]
+ },
+ {
+  "file": "20230315 - Introducción al Desarrollo de Lenguajes de Programación.pdf",
+  "name": "Curso de Introducción al Desarrollo de Lenguajes de Programación",
+  "provider": "Platzi",
+  "earnDate": "2023-03-15",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "programming"
+  ]
+ },
+ {
+  "file": "20230621 - Typescript with React classes - quick start - Jest testing .pdf",
+  "name": "Typescript with React classes - quick start - Jest testing",
+  "provider": "Udemy",
+  "earnDate": "2023-06-21",
+  "hours": 4.5,
+  "price": 0,
+  "tags": [
+   "typescript",
+   "react",
+   "testing"
+  ]
+ },
+ {
+  "file": "20230621 - Ultimate Terraform Guide with Interview Preparation.pdf",
+  "name": "Ultimate Terraform Guide with Interview Preparation",
+  "provider": "Udemy",
+  "earnDate": "2023-06-21",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "terraform"
+  ]
+ },
+ {
+  "file": "20230626 -  NGINX Web Server from Scratch.pdf",
+  "name": "NGINX Web Server from Scratch",
+  "provider": "Udemy",
+  "earnDate": "2023-06-26",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "nginx"
+  ]
+ },
+ {
+  "file": "20230626 -  Tomcat para Administradores y desarrolladores.pdf",
+  "name": "Tomcat para Administradores y desarrolladores",
+  "provider": "Udemy",
+  "earnDate": "2023-06-26",
+  "hours": 8.5,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20230726 - Git + GitHub Desde Cero.pdf",
+  "name": "Git + GitHub Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2021-11-12",
+  "hours": 0.37,
+  "price": 0,
+  "tags": [
+   "git",
+   "github"
+  ]
+ },
+ {
+  "file": "20231126 -  WebServices testing (RestSharp + Postman) Complete Guide.pdf",
+  "name": "WebServices testing (RestSharp + Postman) Complete Guide",
+  "provider": "Udemy",
+  "earnDate": "2023-11-26",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "testing",
+   "apis"
+  ]
+ },
+ {
+  "file": "20231127 - Svelte Desde Cero.pdf",
+  "name": "Svelte Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2023-11-27",
+  "hours": 18.0,
+  "price": 0,
+  "tags": [
+   "svelte"
+  ]
+ },
+ {
+  "file": "20231130 - Implement HashicorpVault on local & Azure Kubernetes cluster.pdf",
+  "name": "Implement HashicorpVault on local & Azure Kubernetes cluster",
+  "provider": "Udemy",
+  "earnDate": "2023-11-30",
+  "hours": 5.0,
+  "price": 0,
+  "tags": [
+   "kubernetes",
+   "azure",
+   "cloud",
+   "security"
+  ]
+ },
+ {
+  "file": "20231130 - The Complete Dart Development Guide.pdf",
+  "name": "The Complete Dart Development Guide",
+  "provider": "Udemy",
+  "earnDate": "2023-11-30",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "flutter"
+  ]
+ },
+ {
+  "file": "20231201 - Containerize SpringBoot Node Express Apps & Deploy on Azure.pdf",
+  "name": "Containerize SpringBoot Node Express Apps & Deploy on Azure",
+  "provider": "Udemy",
+  "earnDate": "2023-12-01",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "azure",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20231226 - Power BI: Empieza desde cero.pdf",
+  "name": "Power BI: Empieza desde cero",
+  "provider": "Udemy",
+  "earnDate": "2023-12-26",
+  "hours": 6.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20231226 - Practical Next.js & React - Build a real WebApp with Next.js.pdf",
+  "name": "Practical Next.js & React - Build a real WebApp with Next.js",
+  "provider": "Udemy",
+  "earnDate": "2023-12-26",
+  "hours": 11.0,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "react",
+   "next.js",
+   "web"
+  ]
+ },
+ {
+  "file": "20231230 - Curso Power BI – Análisis de Datos y Business Intelligence.pdf",
+  "name": "Curso Power BI – Análisis de Datos y Business Intelligence",
+  "provider": "Udemy",
+  "earnDate": "2023-12-30",
+  "hours": 22.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20231231 - Develop & Deploy Java Springboot App on Kubernetes Cluster.pdf",
+  "name": "Develop & Deploy Java Springboot App on Kubernetes Cluster",
+  "provider": "Udemy",
+  "earnDate": "2023-12-31",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "java",
+   "spring boot",
+   "kubernetes"
+  ]
+ },
+ {
+  "file": "20231231 - Introduction to Microservices.pdf",
+  "name": "Introduction to Microservices",
+  "provider": "Udemy",
+  "earnDate": "2023-12-31",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "microservices"
+  ]
+ },
+ {
+  "file": "20231231 - Power BI & Business Intelligence 2023.pdf",
+  "name": "Power BI & Business Intelligence 2023",
+  "provider": "Udemy",
+  "earnDate": "2023-12-31",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20231231 - Setup a Virtual Web Server using Linode or Digital Ocean.pdf",
+  "name": "Setup a Virtual Web Server using Linode or Digital Ocean",
+  "provider": "Udemy",
+  "earnDate": "2023-12-31",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20240101 - Crea Presentaciones Dinámicas e Impactantes con Prezi .pdf",
+  "name": "Crea Presentaciones Dinámicas e Impactantes con Prezi",
+  "provider": "Udemy",
+  "earnDate": "2024-01-01",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "design",
+   "soft skills"
+  ]
+ },
+ {
+  "file": "20240104 - Beginners Guide to Apache Kafka with SpringBoot.pdf",
+  "name": "Beginners Guide to Apache Kafka with SpringBoot",
+  "provider": "Udemy",
+  "earnDate": "2024-01-04",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "big data",
+   "kafka"
+  ]
+ },
+ {
+  "file": "20240104 - Curso Completo de Windows Terminal.pdf",
+  "name": "Curso Completo de Windows Terminal",
+  "provider": "Udemy",
+  "earnDate": "2024-01-04",
+  "hours": 4.5,
+  "price": 0,
+  "tags": [
+   "tools"
+  ]
+ },
+ {
+  "file": "20240104 - Wordpress For Beginners .pdf",
+  "name": "Wordpress For Beginners",
+  "provider": "Udemy",
+  "earnDate": "2024-01-04",
+  "hours": 1.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "wordpress"
+  ]
+ },
+ {
+  "file": "20240401 - Ajedrez Esencial. Aprende a jugar Ajedrez desde CERO.pdf",
+  "name": "Ajedrez Esencial. Aprende a jugar Ajedrez desde CERO",
+  "provider": "Udemy",
+  "earnDate": "2024-01-04",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "soft skills"
+  ]
+ },
+ {
+  "file": "20240516 -  Arquitectura de microcontroladores.pdf",
+  "name": "Arquitectura de microcontroladores",
+  "provider": "Udemy",
+  "earnDate": "2024-05-16",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "hardware"
+  ]
+ },
+ {
+  "file": "20240516 - Microsoft Excel De cero a analista de datos en Power BI.pdf",
+  "name": "Microsoft Excel: De cero a analista de datos en Power BI",
+  "provider": "Udemy",
+  "earnDate": "2024-05-16",
+  "hours": 6.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "excel",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240618 - Curso Power BI - Desde cero para principiantes.pdf",
+  "name": "Curso Power BI - Desde cero para principiantes",
+  "provider": "Udemy",
+  "earnDate": "2024-06-18",
+  "hours": 10.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240618 - Microsoft Power BI - Curso de Power BI Desktop.pdf",
+  "name": "Microsoft Power BI - Curso de Power BI Desktop",
+  "provider": "Udemy",
+  "earnDate": "2024-06-18",
+  "hours": 24.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240704 - Vue.js 3 Desde Cero .pdf",
+  "name": "Vue.js 3 Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2024-07-04",
+  "hours": 29.5,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "vue"
+  ]
+ },
+ {
+  "file": "20240716 - Mastering RESTful APIs with Python and Flask.pdf",
+  "name": "Mastering RESTful APIs with Python and Flask",
+  "provider": "Udemy",
+  "earnDate": "2024-07-16",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "python",
+   "apis"
+  ]
+ },
+ {
+  "file": "20240717 - Angular Framework Desde Cero.pdf",
+  "name": "Angular Framework Desde Cero",
+  "provider": "Udemy",
+  "earnDate": "2024-07-17",
+  "hours": 40.5,
+  "price": 0,
+  "tags": [
+   "angular"
+  ]
+ },
+ {
+  "file": "20240718 -  Learn WordPress Now: WordPress for Beginners.pdf",
+  "name": "Learn WordPress Now: WordPress for Beginners",
+  "provider": "Udemy",
+  "earnDate": "2024-07-18",
+  "hours": 3.0,
+  "price": 0,
+  "tags": [
+   "web",
+   "wordpress"
+  ]
+ },
+ {
+  "file": "20240724 - The Complete Terraform IAC Development Bootcamp.pdf",
+  "name": "The Complete Terraform IAC Development Bootcamp",
+  "provider": "Udemy",
+  "earnDate": "2024-07-24",
+  "hours": 16.5,
+  "price": 0,
+  "tags": [
+   "terraform"
+  ]
+ },
+ {
+  "file": "20240731 - Curso Completo de Bases de datos MongoDB y NoSQL.pdf",
+  "name": "Curso Completo de Bases de datos MongoDB y NoSQL.",
+  "provider": "Udemy",
+  "earnDate": "2024-07-31",
+  "hours": 13.0,
+  "price": 0,
+  "tags": [
+   "mongodb",
+   "database",
+   "data"
+  ]
+ },
+ {
+  "file": "20240731 - React Native Unveiled: From Basics to Mobile Mastery.pdf",
+  "name": "React Native Unveiled: From Basics to Mobile Mastery",
+  "provider": "Udemy",
+  "earnDate": "2024-07-31",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "react",
+   "react native"
+  ]
+ },
+ {
+  "file": "20240802 -  Análisis de Call Center con Business Intelligence y Power BI.pdf",
+  "name": "Análisis de Call Center con Business Intelligence y Power BI",
+  "provider": "Udemy",
+  "earnDate": "2024-08-02",
+  "hours": 3.5,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240802 - Learn Microsoft Power BI in Microsoft Fabric - 2 in 1 Course.pdf",
+  "name": "Learn Microsoft Power BI in Microsoft Fabric - 2 in 1 Course",
+  "provider": "Udemy",
+  "earnDate": "2024-08-02",
+  "hours": 6.5,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240802 - Tableau: Empieza desde cero.pdf",
+  "name": "Tableau: Empieza desde cero",
+  "provider": "Udemy",
+  "earnDate": "2024-08-02",
+  "hours": 1.5,
+  "price": 0,
+  "tags": [
+   "tableau",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240806 -  GitLab Ultimate Guide.pdf",
+  "name": "GitLab Ultimate Guide",
+  "provider": "Udemy",
+  "earnDate": "2024-08-06",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "devops",
+   "git",
+   "gitlab"
+  ]
+ },
+ {
+  "file": "20240806 - Microsoft SQL Server: Análisis de datos con Tableau.pdf",
+  "name": "Microsoft SQL Server: Análisis de datos con Tableau",
+  "provider": "Udemy",
+  "earnDate": "2024-08-06",
+  "hours": 2.0,
+  "price": 0,
+  "tags": [
+   "sql",
+   "database",
+   "tableau",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240808 - Implement JWT Authentication with Java & SpringBoot in 2023.pdf",
+  "name": "Implement JWT Authentication with Java & SpringBoot in 2023",
+  "provider": "Udemy",
+  "earnDate": "2024-08-08",
+  "hours": 7.5,
+  "price": 0,
+  "tags": [
+   "java",
+   "spring boot"
+  ]
+ },
+ {
+  "file": "20240818 - AWS Organizations Getting Started.pdf",
+  "name": "AWS Organizations Getting Started",
+  "provider": "AWS",
+  "earnDate": "2024-08-18",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20240818 - AWS Partner: Accreditation (Technical).pdf",
+  "name": "AWS Partner: Accreditation (Technical)",
+  "provider": "AWS",
+  "earnDate": "2024-08-18",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20240818 - Understanding Placement Groups.pdf",
+  "name": "Understanding Placement Groups",
+  "provider": "AWS",
+  "earnDate": "2024-08-18",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "aws",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20240918 - Rockerbot Suite Level 1.pdf",
+  "name": "Rocketbot Suite (Level 1)",
+  "provider": "Rocketbot",
+  "earnDate": "2024-09-18",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "rpa",
+   "automation"
+  ]
+ },
+ {
+  "file": "20240919 - Master Microsoft Power BI in 21 Days.pdf",
+  "name": "Master Microsoft Power BI in 21 Days",
+  "provider": "Udemy",
+  "earnDate": "2024-09-19",
+  "hours": 8.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240919 - Power BI DAX Aprende las funciones más avanzadas .pdf",
+  "name": "Power BI DAX: Aprende las funciones más avanzadas",
+  "provider": "Udemy",
+  "earnDate": "2024-09-19",
+  "hours": 5.5,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20240922 - Microsoft Power BI: The Complete Guide.pdf",
+  "name": "Microsoft Power BI: The Complete Guide",
+  "provider": "Udemy",
+  "earnDate": "2024-09-22",
+  "hours": 7.0,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20241104 - Choosing a CrossPlatform Development Tool.pdf",
+  "name": "Choosing a Cross-Platform Development Tool",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 0.67,
+  "price": 0,
+  "tags": [
+   "mobile"
+  ]
+ },
+ {
+  "file": "20241104 - Docker for Developers.pdf",
+  "name": "Docker for Developers",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 1.25,
+  "price": 0,
+  "tags": [
+   "docker",
+   "programming"
+  ]
+ },
+ {
+  "file": "20241104 - Java ObjectOriented Programming.pdf",
+  "name": "Java Object-Oriented Programming",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 2.03,
+  "price": 0,
+  "tags": [
+   "java",
+   "programming"
+  ]
+ },
+ {
+  "file": "20241104 - React Hooks.pdf",
+  "name": "React Hooks",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 1.22,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20241104 - React State Management.pdf",
+  "name": "React: State Management",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 1.82,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20241104 - React.js Essential Training.pdf",
+  "name": "React.js Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 2.02,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "react"
+  ]
+ },
+ {
+  "file": "20241105 - React Design Patterns.pdf",
+  "name": "React: Design Patterns",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-05",
+  "hours": 3.32,
+  "price": 0,
+  "tags": [
+   "react",
+   "architecture",
+   "design patterns"
+  ]
+ },
+ {
+  "file": "20241106 - Sass Essential Training.pdf",
+  "name": "Sass Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-06",
+  "hours": 1.32,
+  "price": 0,
+  "tags": [
+   "css"
+  ]
+ },
+ {
+  "file": "20241108 - Learning Kubernetes.pdf",
+  "name": "Learning Kubernetes",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-08",
+  "hours": 1.43,
+  "price": 0,
+  "tags": [
+   "kubernetes"
+  ]
+ },
+ {
+  "file": "20241111 - iOS 17 Development Essential Training.pdf",
+  "name": "iOS 17 Development Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-11",
+  "hours": 1.73,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20241115 - Building Modern Projects with React.pdf",
+  "name": "Building Modern Projects with React",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-15",
+  "hours": 3.68,
+  "price": 0,
+  "tags": [
+   "react"
+  ]
+ },
+ {
+  "file": "20241115 - Learning Java 17.pdf",
+  "name": "Learning Java 17",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-15",
+  "hours": 2.27,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20241118 - React Software Architecture.pdf",
+  "name": "React: Software Architecture",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-18",
+  "hours": 2.65,
+  "price": 0,
+  "tags": [
+   "react",
+   "architecture"
+  ]
+ },
+ {
+  "file": "20241122 - Learning EndtoEnd Testing with Jest.pdf",
+  "name": "Learning End-to-End Testing with Jest",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-11-23",
+  "hours": 1.85,
+  "price": 0,
+  "tags": [
+   "testing"
+  ]
+ },
+ {
+  "file": "20241208 - Programming Foundations Design Patterns.pdf",
+  "name": "Programming Foundations: Design Patterns",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2024-12-03",
+  "hours": 2.75,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "design patterns",
+   "programming"
+  ]
+ },
+ {
+  "file": "20250206 - Advanced Design Patterns Design Principles.pdf",
+  "name": "Advanced Design Patterns: Design Principles",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-02-06",
+  "hours": 0.88,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "design patterns"
+  ]
+ },
+ {
+  "file": "20250206 - Java Advanced Concepts for HighPerformance Development.pdf",
+  "name": "Java: Advanced Concepts for High-Performance Development",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-02-06",
+  "hours": 1.95,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20250206 - Programming Foundations TestDriven Development.pdf",
+  "name": "Programming Foundations: Test-Driven Development",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-02-06",
+  "hours": 2.72,
+  "price": 0,
+  "tags": [
+   "testing",
+   "tdd",
+   "programming"
+  ]
+ },
+ {
+  "file": "20250206 - Software Architecture Patterns for Developers.pdf",
+  "name": "Software Architecture: Patterns for Developers",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-02-06",
+  "hours": 1.27,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "design patterns",
+   "programming"
+  ]
+ },
+ {
+  "file": "20250322 - JavaScript TestDriven Development ES6.pdf",
+  "name": "JavaScript: Test-Driven Development (ES6)",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-22",
+  "hours": 2.33,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "testing",
+   "tdd"
+  ]
+ },
+ {
+  "file": "20250323 - Learning SOLID Programming Principles.pdf",
+  "name": "Learning SOLID Programming Principles",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-23",
+  "hours": 1.82,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "design patterns",
+   "programming"
+  ]
+ },
+ {
+  "file": "20250324 - Creating Your First Spring Boot Microservice.pdf",
+  "name": "Creating Your First Spring Boot Microservice",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-24",
+  "hours": 1.8,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "microservices"
+  ]
+ },
+ {
+  "file": "20250324 - Microservices Design Patterns.pdf",
+  "name": "Microservices: Design Patterns",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-24",
+  "hours": 1.62,
+  "price": 0,
+  "tags": [
+   "architecture",
+   "design patterns",
+   "microservices"
+  ]
+ },
+ {
+  "file": "20250325 - Practical TestDriven Development for Java Programmers.pdf",
+  "name": "Practical Test-Driven Development for Java Programmers",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-25",
+  "hours": 3.83,
+  "price": 0,
+  "tags": [
+   "java",
+   "testing",
+   "tdd"
+  ]
+ },
+ {
+  "file": "20250325 - Spring TestDriven Development with JUnit.pdf",
+  "name": "Spring: Test-Driven Development with JUnit",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-03-25",
+  "hours": 1.2,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "testing",
+   "tdd"
+  ]
+ },
+ {
+  "file": "20250416 - Spring Boot Test-Driven Development.pdf",
+  "name": "Spring Boot: Test-Driven Development",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-04-17",
+  "hours": 0.73,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "testing",
+   "tdd"
+  ]
+ },
+ {
+  "file": "20250506 - Building Your First iOS 17 App.pdf",
+  "name": "Building Your First iOS 17 App",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-05-06",
+  "hours": 0.77,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20250506 - Get Started with iOS App Development.pdf",
+  "name": "Get Started with iOS App Development",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-05-06",
+  "hours": 8.05,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20250506 - Swift 5 Essential Training.pdf",
+  "name": "Swift 5 Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-05-06",
+  "hours": 4.05,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios"
+  ]
+ },
+ {
+  "file": "20250506 - Xcode 15 Essential Training.pdf",
+  "name": "Xcode 15 Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-05-06",
+  "hours": 1.48,
+  "price": 0,
+  "tags": [
+   "swift",
+   "ios",
+   "programming"
+  ]
+ },
+ {
+  "file": "20250510 - Apache Kafka Essential Training Getting Started.pdf",
+  "name": "Apache Kafka Essential Training: Getting Started",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-05-10",
+  "hours": 1.25,
+  "price": 0,
+  "tags": [
+   "big data",
+   "kafka"
+  ]
+ },
+ {
+  "file": "20251027 - Testing in React with Vitest\nTesting in React with Vitest.pdf",
+  "name": "Testing in React with Vitest",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-10-28",
+  "hours": 1.1,
+  "price": 0,
+  "tags": [
+   "react",
+   "testing"
+  ]
+ },
+ {
+  "file": "20251115 - 25 GitHub Configuration Files You Should Be Using.pdf",
+  "name": "25 GitHub Configuration Files You Should Be Using",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-11-15",
+  "hours": 1.95,
+  "price": 0,
+  "tags": [
+   "git",
+   "github"
+  ]
+ },
+ {
+  "file": "20251201 - Learning Go.pdf",
+  "name": "Learning Go",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-01",
+  "hours": 2.98,
+  "price": 0,
+  "tags": [
+   "go"
+  ]
+ },
+ {
+  "file": "20251201 - Power BI Essential Training 2024.pdf",
+  "name": "Power BI Essential Training (2024)",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-01",
+  "hours": 3.82,
+  "price": 0,
+  "tags": [
+   "power bi",
+   "bi",
+   "data"
+  ]
+ },
+ {
+  "file": "20251208 - Learning Apache Tomcat.pdf",
+  "name": "Learning Apache Tomcat",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-08",
+  "hours": 1.17,
+  "price": 0,
+  "tags": [
+   "java"
+  ]
+ },
+ {
+  "file": "20251209 - Learning C sharp.pdf",
+  "name": "Learning C#",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-09",
+  "hours": 2.9,
+  "price": 0,
+  "tags": [
+   "c#"
+  ]
+ },
+ {
+  "file": "20251229 - Laravel Essential Training.pdf",
+  "name": "Laravel Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-29",
+  "hours": 3.23,
+  "price": 0,
+  "tags": [
+   "web",
+   "laravel"
+  ]
+ },
+ {
+  "file": "20251231 - Building Web APIs with ASP.NET Core 8.pdf",
+  "name": "Building Web APIs with ASP.NET Core 8",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-31",
+  "hours": 2.62,
+  "price": 0,
+  "tags": [
+   "web",
+   "c#",
+   ".net",
+   "apis"
+  ]
+ },
+ {
+  "file": "20251231 - Learning Apache Airflow.pdf",
+  "name": "Learning Apache Airflow",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2025-12-31",
+  "hours": 2.17,
+  "price": 0,
+  "tags": [
+   "airflow"
+  ]
+ },
+ {
+  "file": "20260106 - Kali Linux for Advanced Pen Testing and Ethical Hacking.pdf",
+  "name": "Kali Linux for Advanced Pen Testing and Ethical Hacking",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-01-06",
+  "hours": 2.73,
+  "price": 0,
+  "tags": [
+   "linux",
+   "security",
+   "testing"
+  ]
+ },
+ {
+  "file": "20260106 - Rust Essential Training.pdf",
+  "name": "Rust Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-01-06",
+  "hours": 6.78,
+  "price": 0,
+  "tags": [
+   "rust"
+  ]
+ },
+ {
+  "file": "20260128 - Kotlin Multiplatform Development.pdf",
+  "name": "Kotlin Multiplatform Development",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-01-28",
+  "hours": 2.42,
+  "price": 0,
+  "tags": [
+   "kotlin"
+  ]
+ },
+ {
+  "file": "20260210 - Creating Spring Boot Microservices.pdf",
+  "name": "Creating Spring Boot Microservices",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-10",
+  "hours": 3.27,
+  "price": 0,
+  "tags": [
+   "spring boot",
+   "architecture",
+   "microservices"
+  ]
+ },
+ {
+  "file": "20260212 - Complete Guide to Apache Kafka for Beginners.pdf",
+  "name": "Complete Guide to Apache Kafka for Beginners",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-12",
+  "hours": 7.8,
+  "price": 0,
+  "tags": [
+   "big data",
+   "kafka"
+  ]
+ },
+ {
+  "file": "20260219 - Azure DevOps for Beginners.pdf",
+  "name": "Azure DevOps for Beginners",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-19",
+  "hours": 2.6,
+  "price": 0,
+  "tags": [
+   "devops",
+   "azure",
+   "cloud"
+  ]
+ },
+ {
+  "file": "20260219 - DevOps Foundations -  CompTIA.pdf",
+  "name": "DevOps Foundations",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops"
+  ]
+ },
+ {
+  "file": "20260219 - DevOps Foundations - PMI.pdf",
+  "name": "DevOps Foundations",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops"
+  ]
+ },
+ {
+  "file": "20260219 - DevOps Foundations Your First Project - PMI.pdf",
+  "name": "DevOps Foundations: Your First Project",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops"
+  ]
+ },
+ {
+  "file": "20260220 - DevOps Foundations Continuous DeliveryContinuous Integration - Comptia.pdf",
+  "name": "DevOps Foundations: Continuous Delivery/Continuous Integration",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 0,
+  "price": 0,
+  "tags": [
+   "devops"
+  ]
+ },
+ {
+  "file": "20260220 - DevOps Foundations DevSecOps 2022.pdf",
+  "name": "DevOps Foundations: DevSecOps (2022)",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 1.08,
+  "price": 0,
+  "tags": [
+   "devops",
+   "devsecops"
+  ]
+ },
+ {
+  "file": "20260220 - DevOps Foundations Infrastructure as Code.pdf",
+  "name": "DevOps Foundations: Infrastructure as Code",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 2.5,
+  "price": 0,
+  "tags": [
+   "devops",
+   "terraform",
+   "programming"
+  ]
+ },
+ {
+  "file": "20260220 - DevOps Foundations Monitoring and Observability.pdf",
+  "name": "DevOps Foundations: Monitoring and Observability",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 2.02,
+  "price": 0,
+  "tags": [
+   "devops",
+   "monitoring"
+  ]
+ },
+ {
+  "file": "20260220 - DevSecOps Automated Security Testing.pdf",
+  "name": "DevSecOps: Automated Security Testing",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 1.58,
+  "price": 0,
+  "tags": [
+   "automation",
+   "security",
+   "devsecops",
+   "testing"
+  ]
+ },
+ {
+  "file": "20260220 - Getting Started with DevOps.pdf",
+  "name": "Getting Started with DevOps",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-02-20",
+  "hours": 13.53,
+  "price": 0,
+  "tags": [
+   "devops"
+  ]
+ },
+ {
+  "file": "20260304 - HandsOn AI Turn Spreadsheets into Web Apps with Google AI Studio.pdf",
+  "name": "Hands-On AI: Turn Spreadsheets into Web Apps with Google AI Studio",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-04-02",
+  "hours": 0.55,
+  "price": 0,
+  "tags": [
+   "web",
+   "ai"
+  ]
+ },
+ {
+  "file": "20260304 - Mastering Nest.js Build Scalable Applications with Mastery in Nest.js Framework.pdf",
+  "name": "Mastering Nest.js: Build Scalable Applications with Mastery in Nest.js Framework",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-04-03",
+  "hours": 8.82,
+  "price": 0,
+  "tags": [
+   "javascript",
+   "nest.js"
+  ]
+ },
+ {
+  "file": "20260416 - Build a Microservice with Go.pdf",
+  "name": "Build a Microservice with Go",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-04-16",
+  "hours": 1.67,
+  "price": 0,
+  "tags": [
+   "go",
+   "microservices"
+  ]
+ },
+ {
+  "file": "20260417 - Ionic 4.0 Essential Training.pdf",
+  "name": "Ionic 4.0 Essential Training",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-04-16",
+  "hours": 5.07,
+  "price": 0,
+  "tags": [
+   "mobile",
+   "web"
+  ]
+ },
+ {
+  "file": "20260523 - Advanced JMeter.pdf",
+  "name": "Advanced JMeter",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-05-23",
+  "hours": 1.2,
+  "price": 0,
+  "tags": [
+   "automation",
+   "testing"
+  ]
+ },
+ {
+  "file": "20260523 - Practical GitHub Actions.pdf",
+  "name": "Practical GitHub Actions",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-05-23",
+  "hours": 1.33,
+  "price": 0,
+  "tags": [
+   "devops",
+   "git",
+   "github"
+  ]
+ },
+ {
+  "file": "20260604 - Kubernetes GitOps with Argo CD.pdf",
+  "name": "Kubernetes: GitOps with Argo CD",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-06-04",
+  "hours": 2.55,
+  "price": 0,
+  "tags": [
+   "kubernetes",
+   "devops"
+  ]
+ },
+ {
+  "file": "20260608 - Automating Kubernetes with GitOps.pdf",
+  "name": "Automating Kubernetes with GitOps",
+  "provider": "LinkedIn Learning",
+  "earnDate": "2026-06-08",
+  "hours": 7.65,
+  "price": 0,
+  "tags": [
+   "kubernetes",
+   "devops"
+  ]
+ }
+]
