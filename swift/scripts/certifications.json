@@ -1,0 +1,671 @@
+[
+  {
+    "file": "20190607 - RPA DEVELOPER - CERTIFICATE OF COMPLETION.pdf",
+    "name": "RPA Developer - Certificate of Completion",
+    "provider": "UiPath",
+    "earnDate": "2019-06-07",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "rpa",
+      "automation"
+    ]
+  },
+  {
+    "file": "20200308 - Arduino Fundamentals.pdf",
+    "name": "Arduino Fundamentals",
+    "provider": "Arduino",
+    "earnDate": "2020-03-08",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "iot",
+      "hardware"
+    ]
+  },
+  {
+    "file": "20201108 - CCA Spark and Hadoop Developer.pdf",
+    "name": "CCA Spark and Hadoop Developer",
+    "provider": "Cloudera",
+    "earnDate": "2020-11-08",
+    "expirationDate": "2022-11-08",
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "big data"
+    ]
+  },
+  {
+    "file": "20201113 - B1 MET.pdf",
+    "name": "Michigan English Test (MET) - B1",
+    "provider": "Michigan Language Assessment",
+    "earnDate": "2020-11-13",
+    "expirationDate": null,
+    "verificationUrl": "https://michiganassessment.org",
+    "tags": [
+      "english",
+      "language"
+    ]
+  },
+  {
+    "file": "20210426 - Oracle Certified Professional Java SE 11 Developer.pdf",
+    "name": "Oracle Certified Professional Java SE 11 Developer",
+    "provider": "Oracle",
+    "earnDate": "2021-04-26",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "java",
+      "programming"
+    ]
+  },
+  {
+    "file": "20210523 - PCEP - Certified Entry-Level Python Programmer.pdf",
+    "name": "PCEP - Certified Entry-Level Python Programmer",
+    "provider": "Python Institute",
+    "earnDate": "2021-05-23",
+    "expirationDate": null,
+    "verificationUrl": "https://verify.openedg.org",
+    "tags": [
+      "python",
+      "programming"
+    ]
+  },
+  {
+    "file": "20210612 - Scrum Foundation Professional Cetificate SFPC.pdf",
+    "name": "Scrum Foundation Professional Certificate (SFPC)",
+    "provider": "CertiProf",
+    "earnDate": "2021-06-12",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "agile"
+    ]
+  },
+  {
+    "file": "20210705 - Microsoft Certified Azure Fundamentals.pdf",
+    "name": "Azure Fundamentals",
+    "provider": "Microsoft",
+    "earnDate": "2021-07-05",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20210722 - Remote Work and Virtual Collaboration Professional Certificate.pdf",
+    "name": "Remote Work and Virtual Collaboration Professional Certificate",
+    "provider": "CertiProf",
+    "earnDate": "2021-07-22",
+    "expirationDate": "2023-07-22",
+    "verificationUrl": null,
+    "tags": [
+      "soft skills"
+    ]
+  },
+  {
+    "file": "20210726 - Cyber Security Foundation Processional Certificate.pdf",
+    "name": "Cyber Security Foundation Professional Certificate",
+    "provider": "CertiProf",
+    "earnDate": "2021-07-26",
+    "expirationDate": "2023-07-26",
+    "verificationUrl": null,
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "file": "20210828 - Informatica - Cloud Modernization - Cloud Data Quality And Data Governance.pdf",
+    "name": "Cloud Modernization - Cloud Data Quality and Data Governance",
+    "provider": "Informatica",
+    "earnDate": "2021-08-28",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance"
+    ]
+  },
+  {
+    "file": "20210901 - Informatica - Data Governance & Privacy Foundation Series Certification.pdf",
+    "name": "Data Governance & Privacy Foundation Series Certification",
+    "provider": "Informatica",
+    "earnDate": "2021-09-01",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20210914 - Informatica - Business 360 - Data Management for Supplie & Product.pdf",
+    "name": "Business 360 - Data Management for Supplier & Product",
+    "provider": "Informatica",
+    "earnDate": "2021-09-14",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance"
+    ]
+  },
+  {
+    "file": "20210918 - Microsoft Certified Azure AI Fundamentals.pdf",
+    "name": "Azure AI Fundamentals",
+    "provider": "Microsoft",
+    "earnDate": "2021-09-18",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "ai"
+    ]
+  },
+  {
+    "file": "20211113 - ISO 9001 QUALITY MANAGEMENT SKILLFRONT.pdf",
+    "name": "ISO 9001 Quality Management System Associate",
+    "provider": "SkillFront",
+    "earnDate": "2021-11-13",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "quality"
+    ]
+  },
+  {
+    "file": "20211230 - Microsoft Certified Azure Data Fundamentals.pdf",
+    "name": "Azure Data Fundamentals",
+    "provider": "Microsoft",
+    "earnDate": "2021-12-30",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "database",
+      "data"
+    ]
+  },
+  {
+    "file": "20220117 - UFT One Tester Specialist.pdf",
+    "name": "UFT One Tester Specialist",
+    "provider": "Micro Focus",
+    "earnDate": "2022-01-17",
+    "expirationDate": null,
+    "verificationUrl": "https://www.credly.com/go/a3ZK5b95",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "file": "20220202 - UFT One v15 Certified Professional Exam.pdf",
+    "name": "UFT One v15.x Certified Professional",
+    "provider": "Micro Focus",
+    "earnDate": "2022-02-02",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "file": "20220404 - Microsoft Certified Power BI Data Analyst Associate.pdf",
+    "name": "Power BI Data Analyst Associate",
+    "provider": "Microsoft",
+    "earnDate": "2022-04-04",
+    "expirationDate": "2028-04-04",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "data",
+      "bi"
+    ]
+  },
+  {
+    "file": "20220428 - Power Platform Fundamentals.pdf",
+    "name": "Power Platform Fundamentals",
+    "provider": "Microsoft",
+    "earnDate": "2022-04-28",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "power platform"
+    ]
+  },
+  {
+    "file": "20220601 - Certified Kubernetes Administrator.pdf",
+    "name": "Certified Kubernetes Administrator",
+    "provider": "Cloud Native Computing Foundation",
+    "earnDate": "2022-06-01",
+    "expirationDate": null,
+    "verificationUrl": "http://training.linuxfoundation.org/certification/verify",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20220701 - AWS Partner: Accreditation (Technical) (Spanish).pdf",
+    "name": "AWS Partner: Accreditation (Technical) (Spanish)",
+    "provider": "AWS",
+    "earnDate": "2022-07-01",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "aws",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20220704 - AWS Partner: Cloud Economics Accreditation (Spanish).pdf",
+    "name": "AWS Partner: Cloud Economics Accreditation (Spanish)",
+    "provider": "AWS",
+    "earnDate": "2022-07-04",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "aws",
+      "cloud",
+      "finops"
+    ]
+  },
+  {
+    "file": "20220719 - AWS Partner: Data Analytics on AWS (Business) (Classroom).pdf",
+    "name": "AWS Partner: Data Analytics on AWS (Business) (Classroom)",
+    "provider": "AWS",
+    "earnDate": "2022-07-19",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "aws",
+      "cloud",
+      "data"
+    ]
+  },
+  {
+    "file": "20220722 - AWS Partner: Machine Learning on AWS (Business) (Classroom).pdf",
+    "name": "AWS Partner: Machine Learning on AWS (Business) (Classroom)",
+    "provider": "AWS",
+    "earnDate": "2022-07-22",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "aws",
+      "cloud",
+      "ai"
+    ]
+  },
+  {
+    "file": "20220807 - Certified Kubernetes Application Developer.pdf",
+    "name": "Certified Kubernetes Application Developer",
+    "provider": "Cloud Native Computing Foundation",
+    "earnDate": "2022-08-07",
+    "expirationDate": null,
+    "verificationUrl": "http://training.linuxfoundation.org/certification/verify",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20221028 - Microsoft Certified Azure Cosmos DB Developer Specialty.pdf",
+    "name": "Azure Cosmos DB Developer Specialty",
+    "provider": "Microsoft",
+    "earnDate": "2022-10-28",
+    "expirationDate": "2027-10-28",
+    "verificationUrl": "https://learn.microsoft.com/en-us/users/danny270793/credentials/certification/azure-cosmos-db-developer-specialty?tab=credentials-tab",
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "database"
+    ]
+  },
+  {
+    "file": "20221216 - Business Intelligence Foundation Professional Certification BIFPC.pdf",
+    "name": "Business Intelligence Foundation Professional Certification (BIFPC)",
+    "provider": "CertiProf",
+    "earnDate": "2022-12-16",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "bi"
+    ]
+  },
+  {
+    "file": "20221218 - Terraform associate.pdf",
+    "name": "HashiCorp Certified: Terraform Associate",
+    "provider": "HashiCorp",
+    "earnDate": "2022-12-18",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "terraform",
+      "devops",
+      "cloud",
+      "iac"
+    ]
+  },
+  {
+    "file": "20230102 - IBM - Enterprise Design Thinking Practitioner.pdf",
+    "name": "Enterprise Design Thinking Practitioner",
+    "provider": "IBM",
+    "earnDate": "2023-01-02",
+    "expirationDate": null,
+    "verificationUrl": "https://www.credly.com/go/km0eoF3Y",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "file": "20230226 - Microsoft Certified Azure Developer Associate.pdf",
+    "name": "Azure Developer Associate",
+    "provider": "Microsoft",
+    "earnDate": "2023-02-26",
+    "expirationDate": "2027-02-26",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20230317 - Business Model Canvas Essentials Professional Certification - BMCEPC.pdf",
+    "name": "Business Model Canvas Essentials Professional Certification (BMCEPC)",
+    "provider": "CertiProf",
+    "earnDate": "2023-03-17",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "file": "20230326 - Microsoft Certified Azure Administrator Associate.pdf",
+    "name": "Azure Administrator Associate",
+    "provider": "Microsoft",
+    "earnDate": "2023-03-26",
+    "expirationDate": "2028-03-26",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20230604 - Microsoft Certified Azure Solutions Architect Expert.pdf",
+    "name": "Azure Solutions Architect Expert",
+    "provider": "Microsoft",
+    "earnDate": "2023-06-04",
+    "expirationDate": "2027-06-04",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "architecture"
+    ]
+  },
+  {
+    "file": "20230816 - Microsoft Certified Azure DevOps Engineer Expert.pdf",
+    "name": "Azure DevOps Engineer Expert",
+    "provider": "Microsoft",
+    "earnDate": "2023-08-16",
+    "expirationDate": "2027-08-16",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "devops"
+    ]
+  },
+  {
+    "file": "20231002 - Microsoft Certified Azure Data Scientist Associate.pdf.pdf",
+    "name": "Azure Data Scientist Associate",
+    "provider": "Microsoft",
+    "earnDate": "2023-10-02",
+    "expirationDate": "2027-10-02",
+    "verificationUrl": "https://learn.microsoft.com/en-us/users/danny270793/credentials/certification/azure-data-scientist?tab=credentials-tab",
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "data",
+      "ai"
+    ]
+  },
+  {
+    "file": "20231019 - Graph Developer - Associate.pdf",
+    "name": "Graph Developer - Associate",
+    "provider": "Apollo GraphQL",
+    "earnDate": "2023-10-19",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "graphql",
+      "backend"
+    ]
+  },
+  {
+    "file": "20231221 - Microsoft Certified Azure Database Administrator Associate.pdf",
+    "name": "Azure Database Administrator Associate",
+    "provider": "Microsoft",
+    "earnDate": "2023-12-21",
+    "expirationDate": "2027-12-22",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "database",
+      "data"
+    ]
+  },
+  {
+    "file": "20240304 - Microsoft Certified Azure Data Engineer Associate.pdf",
+    "name": "Azure Data Engineer Associate",
+    "provider": "Microsoft",
+    "earnDate": "2024-03-04",
+    "expirationDate": "2026-03-04",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "database",
+      "data"
+    ]
+  },
+  {
+    "file": "20240327 - Microsoft Certified Power Automate RPA Developer Associate.pdf",
+    "name": "Power Automate RPA Developer Associate",
+    "provider": "Microsoft",
+    "earnDate": "2024-03-27",
+    "expirationDate": "2027-03-27",
+    "verificationUrl": null,
+    "tags": [
+      "microsoft",
+      "power platform",
+      "rpa",
+      "automation"
+    ]
+  },
+  {
+    "file": "20240504 - AWS Certified Cloud Practitioner.pdf",
+    "name": "AWS Certified Cloud Practitioner",
+    "provider": "AWS",
+    "earnDate": "2024-05-04",
+    "expirationDate": "2027-05-04",
+    "verificationUrl": "https://aws.amazon.com/verification",
+    "tags": [
+      "aws",
+      "cloud"
+    ]
+  },
+  {
+    "file": "20240716 - Consent Expert Record Integration Management.pdf",
+    "name": "Consent Expert: Record Integration Management",
+    "provider": "OneTrust",
+    "earnDate": "2024-07-16",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240814 - Data Discovery and Governance EXPERT Privacy Rights Automation.pdf",
+    "name": "Data Discovery and Governance EXPERT: Privacy Rights Automation",
+    "provider": "OneTrust",
+    "earnDate": "2024-08-14",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240814 - Privacy Rights Automation Expert Web Form Enhancements.pdf",
+    "name": "Privacy Rights Automation Expert: Web Form Enhancements",
+    "provider": "OneTrust",
+    "earnDate": "2024-08-14",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240819 - Cookie Consent Expert Integrations.pdf",
+    "name": "Cookie Consent Expert: Integrations",
+    "provider": "OneTrust",
+    "earnDate": "2024-08-19",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240829 - Data Discovery & Governance Professional Module Overviews.pdf",
+    "name": "Data Discovery & Governance Professional: Module Overviews",
+    "provider": "OneTrust",
+    "earnDate": "2024-08-29",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240903 - Data Discovery & Governance Professional Background.pdf",
+    "name": "Data Discovery & Governance Professional: Background",
+    "provider": "OneTrust",
+    "earnDate": "2024-09-03",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240909 - Data Discovery & Governance Integrations and Scan Configuration.pdf",
+    "name": "Data Discovery & Governance: Integrations and Scan Configuration",
+    "provider": "OneTrust",
+    "earnDate": "2024-09-09",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240909 - Data Discovery and Governance Data Policies.pdf",
+    "name": "Data Discovery and Governance: Data Policies",
+    "provider": "OneTrust",
+    "earnDate": "2024-09-09",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data",
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20240917 - GitHub Foundations.pdf",
+    "name": "GitHub Foundations",
+    "provider": "GitHub",
+    "earnDate": "2024-09-17",
+    "expirationDate": "2027-09-17",
+    "verificationUrl": "https://www.credly.com/go/4wuU6s7Q",
+    "tags": [
+      "github",
+      "devops"
+    ]
+  },
+  {
+    "file": "20240920 - Bot Builder Rocketbot Expert Level 1.pdf",
+    "name": "Bot Builder Rocketbot Expert - Level 1",
+    "provider": "Rocketbot",
+    "earnDate": "2024-09-20",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "rpa",
+      "automation"
+    ]
+  },
+  {
+    "file": "20240927 - Consent & Preferences Management Pro.pdf",
+    "name": "Consent & Preferences Management Pro",
+    "provider": "OneTrust",
+    "earnDate": "2024-09-27",
+    "expirationDate": null,
+    "verificationUrl": null,
+    "tags": [
+      "data governance",
+      "privacy"
+    ]
+  },
+  {
+    "file": "20241010 - Microsoft Certified Azure Network Engineer Associate.pdf",
+    "name": "Azure Network Engineer Associate",
+    "provider": "Microsoft",
+    "earnDate": "2024-10-10",
+    "expirationDate": "2027-10-10",
+    "verificationUrl": "https://learn.microsoft.com/en-us/users/danny270793/credentials/certification/azure-network-engineer-associate?tab=credentials-tab",
+    "tags": [
+      "microsoft",
+      "azure",
+      "cloud",
+      "networking"
+    ]
+  }
+]
